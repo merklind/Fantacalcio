@@ -1,5 +1,5 @@
-import requests, bs4, re, pprint, os
-from login import login
+import requests, bs4, re
+from src.scraping.login import login
 
 def master():
     s = requests.Session()

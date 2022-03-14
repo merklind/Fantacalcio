@@ -1,6 +1,6 @@
 import openpyxl
 import json
-from COSTANTS import FILE_PATH, CURRENT_YEAR
+from src.COSTANTS import FILE_PATH, CURRENT_YEAR
 
 def insert_voti(match_day):
     wb = openpyxl.load_workbook(f'{FILE_PATH}')

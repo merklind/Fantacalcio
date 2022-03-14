@@ -1,16 +1,15 @@
 #!/usr/local/bin/python3.8
 
+import threading
+
 import requests
 
-from fill_info_excel import *
-from input_day import *
-from login import *
-from scrape_link import *
-from scrape_player import *
-
-import threading
+from src.excel_utils.fill_info_excel import *
+from src.input_utils.input_day import *
+from src.scraping.login import *
+from src.scraping.scrape_link import *
+from src.scraping.scrape_player import *
 from utils.utility import open_wb
-
 
 #Open workbook in a separate thread
 wb = []

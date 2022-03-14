@@ -2,7 +2,7 @@ import requests
 import bs4
 from json import dump
 from tqdm import tqdm
-from COSTANTS import CURRENT_YEAR
+from src.COSTANTS import CURRENT_YEAR
 
 def parse_voti_file(match_day):
 

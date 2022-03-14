@@ -2,7 +2,7 @@
 
 import openpyxl
 from sys import exit
-from COSTANTS import FILE_PATH
+from src.COSTANTS import FILE_PATH
 
 def doing_substitution():
     wb = openpyxl.load_workbook(f'{FILE_PATH}', data_only = True)

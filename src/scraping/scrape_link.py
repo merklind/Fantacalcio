@@ -1,6 +1,6 @@
 import bs4
 
-from COSTANTS import ID_LEGA
+from src.COSTANTS import ID_LEGA
 
 
 def scrape_link(session, match_day):

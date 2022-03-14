@@ -2,10 +2,11 @@ import json
 from json import dump
 from re import compile
 
-from COSTANTS import CHANGE_NAME_FILE, CURRENT_YEAR
-from change_team_name import change_team_name
-from no_formation import no_formation
-from scrape_teams_names import *
+
+from src.COSTANTS import CHANGE_NAME_FILE, CURRENT_YEAR
+from src.utils.change_team_name import change_team_name
+from src.scraping.no_formation import no_formation
+from src.scraping.scrape_teams_names import *
 
 
 def scrape_player(session, match_links, match_day):

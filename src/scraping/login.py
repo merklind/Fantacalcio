@@ -1,6 +1,6 @@
 import os
 
-from COSTANTS import URL_LOGIN
+from src.COSTANTS import URL_LOGIN
 
 
 def login(s):

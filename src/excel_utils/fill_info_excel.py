@@ -1,9 +1,7 @@
 from json import load
 
-from openpyxl import load_workbook
-
-from COSTANTS import CURRENT_YEAR, FILE_PATH
-from add_link import *
+from ..COSTANTS import CURRENT_YEAR, FILE_PATH
+from src.excel_utils.add_link import *
 
 
 def fill_info_excel(wb, match_day):

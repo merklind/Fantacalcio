@@ -1,7 +1,7 @@
 import requests
 import bs4
 from login import login
-from time import sleep
+
 
 def retrieve_calendar():
 
