@@ -1,2705 +1,3770 @@
 {
-    "1067778": {
+    "112394": {
+        "nome_PianetaFanta": "Bertini T.",
+        "Ruolo": "P",
+        "Squadra": "Atalanta"
+    },
+    "67778": {
         "nome_PianetaFanta": "Musso J.",
         "Ruolo": "P",
         "Squadra": "Atalanta"
     },
-    "1061828": {
+    "61828": {
         "nome_PianetaFanta": "Rossi F.",
         "Ruolo": "P",
         "Squadra": "Atalanta"
     },
-    "1040905": {
+    "40905": {
         "nome_PianetaFanta": "Sportiello M.",
         "Ruolo": "P",
         "Squadra": "Atalanta"
     },
-    "1070095": {
+    "112395": {
+        "nome_PianetaFanta": "Cittadini G.",
+        "Ruolo": "D",
+        "Squadra": "Atalanta"
+    },
+    "70095": {
         "nome_PianetaFanta": "Demiral M.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1020379": {
+    "20379": {
         "nome_PianetaFanta": "Djimsiti B.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1059906": {
+    "59906": {
         "nome_PianetaFanta": "Gosens R.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1047300": {
+    "47300": {
         "nome_PianetaFanta": "Hateboer H.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1071244": {
+    "71244": {
         "nome_PianetaFanta": "Lovato M.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1063174": {
+    "63174": {
         "nome_PianetaFanta": "Maehle J.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1048189": {
+    "45106": {
+        "nome_PianetaFanta": "Mattiello F.",
+        "Ruolo": "D",
+        "Squadra": "Atalanta"
+    },
+    "48189": {
         "nome_PianetaFanta": "Palomino J.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1052316": {
+    "52316": {
         "nome_PianetaFanta": "Pezzella Gi.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1044683": {
+    "44683": {
         "nome_PianetaFanta": "Toloi R.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1043014": {
+    "102886": {
+        "nome_PianetaFanta": "Scalvini G.",
+        "Ruolo": "D",
+        "Squadra": "Atalanta"
+    },
+    "43014": {
         "nome_PianetaFanta": "Zappacosta D.",
         "Ruolo": "D",
         "Squadra": "Atalanta"
     },
-    "1036130": {
+    "36130": {
         "nome_PianetaFanta": "De Roon M.",
         "Ruolo": "C",
         "Squadra": "Atalanta"
     },
-    "1047609": {
+    "47609": {
         "nome_PianetaFanta": "Freuler R.",
         "Ruolo": "C",
         "Squadra": "Atalanta"
     },
-    "1068771": {
+    "112666": {
+        "nome_PianetaFanta": "Giovane S.",
+        "Ruolo": "C",
+        "Squadra": "Atalanta"
+    },
+    "68771": {
         "nome_PianetaFanta": "Koopmeiners T.",
         "Ruolo": "C",
         "Squadra": "Atalanta"
     },
-    "1040264": {
+    "111586": {
+        "nome_PianetaFanta": "Oliveri A.",
+        "Ruolo": "C",
+        "Squadra": "Atalanta"
+    },
+    "103059": {
+        "nome_PianetaFanta": "Panada S.",
+        "Ruolo": "C",
+        "Squadra": "Atalanta"
+    },
+    "40264": {
         "nome_PianetaFanta": "Pasalic M.",
         "Ruolo": "C",
         "Squadra": "Atalanta"
     },
-    "1051202": {
+    "51202": {
         "nome_PianetaFanta": "Pessina M.",
         "Ruolo": "C",
         "Squadra": "Atalanta"
     },
-    "1018103": {
+    "112667": {
+        "nome_PianetaFanta": "Sidibe A.",
+        "Ruolo": "C",
+        "Squadra": "Atalanta"
+    },
+    "112668": {
+        "nome_PianetaFanta": "De Nipoti T.",
+        "Ruolo": "A",
+        "Squadra": "Atalanta"
+    },
+    "18103": {
         "nome_PianetaFanta": "Ilicic J.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1048559": {
+    "48559": {
         "nome_PianetaFanta": "Malinovskyi R.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1048789": {
+    "65260": {
+        "nome_PianetaFanta": "Mihaila V.",
+        "Ruolo": "A",
+        "Squadra": "Atalanta"
+    },
+    "48789": {
         "nome_PianetaFanta": "Miranchuk A.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1018048": {
+    "18048": {
         "nome_PianetaFanta": "Muriel L.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1070458": {
+    "70458": {
         "nome_PianetaFanta": "Piccoli R.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1043622": {
+    "43622": {
         "nome_PianetaFanta": "Zapata D.",
         "Ruolo": "A",
         "Squadra": "Atalanta"
     },
-    "1020833": {
+    "111587": {
+        "nome_PianetaFanta": "Zuccon F.",
+        "Ruolo": "A",
+        "Squadra": "Atalanta"
+    },
+    "111555": {
+        "nome_PianetaFanta": "Bagnolini N.",
+        "Ruolo": "P",
+        "Squadra": "Bologna"
+    },
+    "20833": {
         "nome_PianetaFanta": "Bardi F.",
         "Ruolo": "P",
         "Squadra": "Bologna"
     },
-    "1038871": {
+    "111650": {
+        "nome_PianetaFanta": "Franzini D.",
+        "Ruolo": "P",
+        "Squadra": "Bologna"
+    },
+    "76688": {
+        "nome_PianetaFanta": "Molla M.",
+        "Ruolo": "P",
+        "Squadra": "Bologna"
+    },
+    "38871": {
         "nome_PianetaFanta": "Skorupski L.",
         "Ruolo": "P",
         "Squadra": "Bologna"
     },
-    "1079002": {
+    "109534": {
+        "nome_PianetaFanta": "Amey W.",
+        "Ruolo": "D",
+        "Squadra": "Bologna"
+    },
+    "105751": {
+        "nome_PianetaFanta": "Annan E.",
+        "Ruolo": "D",
+        "Squadra": "Bologna"
+    },
+    "79002": {
         "nome_PianetaFanta": "Binks L.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1044224": {
+    "44224": {
         "nome_PianetaFanta": "Bonifazi K.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1064558": {
+    "64558": {
         "nome_PianetaFanta": "Corbo G.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1018182": {
+    "18182": {
         "nome_PianetaFanta": "De Silvestri L.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1037256": {
+    "37256": {
         "nome_PianetaFanta": "Dijks M.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1102321": {
+    "102321": {
         "nome_PianetaFanta": "Hickey A.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1035924": {
+    "112710": {
+        "nome_PianetaFanta": "Kasius D.",
+        "Ruolo": "D",
+        "Squadra": "Bologna"
+    },
+    "35924": {
         "nome_PianetaFanta": "Mbaye I.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1016126": {
+    "16126": {
         "nome_PianetaFanta": "Medel G.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1018636": {
+    "18636": {
         "nome_PianetaFanta": "Soumaoro A.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1110749": {
+    "112411": {
+        "nome_PianetaFanta": "Stivanello R.",
+        "Ruolo": "D",
+        "Squadra": "Bologna"
+    },
+    "110749": {
         "nome_PianetaFanta": "Theate A.",
         "Ruolo": "D",
         "Squadra": "Bologna"
     },
-    "1077075": {
+    "61017": {
+        "nome_PianetaFanta": "Aebischer M.",
+        "Ruolo": "C",
+        "Squadra": "Bologna"
+    },
+    "77075": {
         "nome_PianetaFanta": "Dominguez N.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1061447": {
+    "61447": {
         "nome_PianetaFanta": "Vignato E.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1071781": {
+    "71781": {
         "nome_PianetaFanta": "Schouten J.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1066455": {
+    "66455": {
         "nome_PianetaFanta": "Kingsley M.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1068631": {
+    "17872": {
+        "nome_PianetaFanta": "Poli A.",
+        "Ruolo": "C",
+        "Squadra": "Bologna"
+    },
+    "106201": {
+        "nome_PianetaFanta": "Pyyhtia N.",
+        "Ruolo": "C",
+        "Squadra": "Bologna"
+    },
+    "100924": {
+        "nome_PianetaFanta": "Rojas L.",
+        "Ruolo": "C",
+        "Squadra": "Bologna"
+    },
+    "68631": {
         "nome_PianetaFanta": "Skov Olsen A.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1020760": {
+    "20760": {
         "nome_PianetaFanta": "Soriano R.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1050976": {
+    "50976": {
         "nome_PianetaFanta": "Svanberg M.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1109588": {
+    "109588": {
         "nome_PianetaFanta": "Urbanski K.",
         "Ruolo": "C",
         "Squadra": "Bologna"
     },
-    "1109836": {
+    "20824": {
+        "nome_PianetaFanta": "Viola N.",
+        "Ruolo": "C",
+        "Squadra": "Bologna"
+    },
+    "109836": {
         "nome_PianetaFanta": "Arnautovic M.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1065584": {
+    "65584": {
         "nome_PianetaFanta": "Barrow M.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1052468": {
+    "21329": {
+        "nome_PianetaFanta": "Falcinelli D.",
+        "Ruolo": "A",
+        "Squadra": "Bologna"
+    },
+    "52468": {
         "nome_PianetaFanta": "Orsolini R.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1021124": {
+    "102943": {
+        "nome_PianetaFanta": "Pagliuca M.",
+        "Ruolo": "A",
+        "Squadra": "Bologna"
+    },
+    "109711": {
+        "nome_PianetaFanta": "Raimondo A.",
+        "Ruolo": "A",
+        "Squadra": "Bologna"
+    },
+    "21124": {
         "nome_PianetaFanta": "Sansone N.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1051995": {
+    "51995": {
         "nome_PianetaFanta": "Santander F.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1110664": {
+    "110664": {
         "nome_PianetaFanta": "Van Hooijdonk S.",
         "Ruolo": "A",
         "Squadra": "Bologna"
     },
-    "1046658": {
+    "46658": {
         "nome_PianetaFanta": "Aresti S.",
         "Ruolo": "P",
         "Squadra": "Cagliari"
     },
-    "1035189": {
+    "35189": {
         "nome_PianetaFanta": "Cragno A.",
         "Ruolo": "P",
         "Squadra": "Cagliari"
     },
-    "1051808": {
+    "111753": {
+        "nome_PianetaFanta": "D'Aniello A.",
+        "Ruolo": "P",
+        "Squadra": "Cagliari"
+    },
+    "110757": {
+        "nome_PianetaFanta": "Fusco E.",
+        "Ruolo": "P",
+        "Squadra": "Cagliari"
+    },
+    "112563": {
+        "nome_PianetaFanta": "Lolic E.",
+        "Ruolo": "P",
+        "Squadra": "Cagliari"
+    },
+    "51808": {
         "nome_PianetaFanta": "Radunovic B.",
         "Ruolo": "P",
         "Squadra": "Cagliari"
     },
-    "1095209": {
+    "95209": {
         "nome_PianetaFanta": "Altare G.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1065433": {
+    "65433": {
         "nome_PianetaFanta": "Bellanova R.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1017803": {
+    "17803": {
         "nome_PianetaFanta": "Caceres M.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1095196": {
+    "95196": {
         "nome_PianetaFanta": "Carboni A.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1021246": {
+    "21246": {
         "nome_PianetaFanta": "Ceppitelli L.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1052930": {
+    "52930": {
         "nome_PianetaFanta": "Dalbert H.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1037875": {
+    "37875": {
         "nome_PianetaFanta": "Farago' P.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1016081": {
+    "16081": {
         "nome_PianetaFanta": "Godin D.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1019506": {
+    "112564": {
+        "nome_PianetaFanta": "Iovu I.",
+        "Ruolo": "D",
+        "Squadra": "Cagliari"
+    },
+    "19506": {
         "nome_PianetaFanta": "Lykogiannis C.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1070336": {
+    "110625": {
+        "nome_PianetaFanta": "Obert A.",
+        "Ruolo": "D",
+        "Squadra": "Cagliari"
+    },
+    "111835": {
+        "nome_PianetaFanta": "Palomba L.",
+        "Ruolo": "D",
+        "Squadra": "Cagliari"
+    },
+    "70336": {
         "nome_PianetaFanta": "Walukiewicz S.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1067771": {
+    "67771": {
         "nome_PianetaFanta": "Zappa G.",
         "Ruolo": "D",
         "Squadra": "Cagliari"
     },
-    "1040467": {
+    "110727": {
+        "nome_PianetaFanta": "Cavuoti N.",
+        "Ruolo": "C",
+        "Squadra": "Cagliari"
+    },
+    "40467": {
         "nome_PianetaFanta": "Deiola A.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1049181": {
+    "79317": {
+        "nome_PianetaFanta": "Del Pupo I.",
+        "Ruolo": "C",
+        "Squadra": "Cagliari"
+    },
+    "49181": {
         "nome_PianetaFanta": "Grassi A.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1065347": {
+    "111836": {
+        "nome_PianetaFanta": "Kourfalidis C.",
+        "Ruolo": "C",
+        "Squadra": "Cagliari"
+    },
+    "65347": {
         "nome_PianetaFanta": "Ladinetti R.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1060341": {
+    "60341": {
         "nome_PianetaFanta": "Marin R.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1052374": {
+    "52374": {
         "nome_PianetaFanta": "Nandez N.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1070417": {
+    "70417": {
         "nome_PianetaFanta": "Oliva C.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1047712": {
+    "47712": {
         "nome_PianetaFanta": "Rog M.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1023430": {
+    "23430": {
         "nome_PianetaFanta": "Strootman K.",
         "Ruolo": "C",
         "Squadra": "Cagliari"
     },
-    "1040087": {
+    "40087": {
         "nome_PianetaFanta": "Keita B.",
         "Ruolo": "A",
         "Squadra": "Cagliari"
     },
-    "1065739": {
+    "65739": {
         "nome_PianetaFanta": "Ceter D.",
         "Ruolo": "A",
         "Squadra": "Cagliari"
     },
-    "1041684": {
+    "111837": {
+        "nome_PianetaFanta": "Desogus J.",
+        "Ruolo": "A",
+        "Squadra": "Cagliari"
+    },
+    "65348": {
+        "nome_PianetaFanta": "Gagliano L.",
+        "Ruolo": "A",
+        "Squadra": "Cagliari"
+    },
+    "41684": {
         "nome_PianetaFanta": "Joao Pedro",
         "Ruolo": "A",
         "Squadra": "Cagliari"
     },
-    "1027367": {
+    "27367": {
         "nome_PianetaFanta": "Pavoletti L.",
         "Ruolo": "A",
         "Squadra": "Cagliari"
     },
-    "1051708": {
+    "51708": {
         "nome_PianetaFanta": "Pereiro G.",
         "Ruolo": "A",
         "Squadra": "Cagliari"
     },
-    "1102553": {
+    "112596": {
+        "nome_PianetaFanta": "Tramoni L.",
+        "Ruolo": "A",
+        "Squadra": "Cagliari"
+    },
+    "102553": {
         "nome_PianetaFanta": "Furlan J.",
         "Ruolo": "P",
         "Squadra": "Empoli"
     },
-    "1045335": {
+    "96461": {
+        "nome_PianetaFanta": "Hvalic K.",
+        "Ruolo": "P",
+        "Squadra": "Empoli"
+    },
+    "18329": {
+        "nome_PianetaFanta": "Ujkani S.",
+        "Ruolo": "P",
+        "Squadra": "Empoli"
+    },
+    "45335": {
         "nome_PianetaFanta": "Vicario G.",
         "Ruolo": "P",
         "Squadra": "Empoli"
     },
-    "1021227": {
+    "112737": {
+        "nome_PianetaFanta": "Cacace L.",
+        "Ruolo": "D",
+        "Squadra": "Empoli"
+    },
+    "21227": {
         "nome_PianetaFanta": "Fiamozzi R.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1058739": {
+    "58739": {
         "nome_PianetaFanta": "Ismajli A.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1043566": {
+    "43566": {
         "nome_PianetaFanta": "Luperto S.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1057911": {
+    "57911": {
         "nome_PianetaFanta": "Marchizza R.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1102357": {
+    "102357": {
         "nome_PianetaFanta": "Parisi F.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1021137": {
+    "112225": {
+        "nome_PianetaFanta": "Pezzola L.",
+        "Ruolo": "D",
+        "Squadra": "Empoli"
+    },
+    "102552": {
+        "nome_PianetaFanta": "Rizza A.",
+        "Ruolo": "D",
+        "Squadra": "Empoli"
+    },
+    "21137": {
         "nome_PianetaFanta": "Romagnoli S.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1020311": {
+    "20311": {
         "nome_PianetaFanta": "Stojanovic P.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1020920": {
+    "20920": {
         "nome_PianetaFanta": "Tonelli L.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1078233": {
+    "78233": {
         "nome_PianetaFanta": "Viti M.",
         "Ruolo": "D",
         "Squadra": "Empoli"
     },
-    "1103012": {
+    "103012": {
         "nome_PianetaFanta": "Asllani K.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1061923": {
+    "61923": {
         "nome_PianetaFanta": "Bajrami N.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1052447": {
+    "102850": {
+        "nome_PianetaFanta": "Baldanzi T.",
+        "Ruolo": "C",
+        "Squadra": "Empoli"
+    },
+    "52447": {
         "nome_PianetaFanta": "Bandinelli F.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1102046": {
+    "102046": {
         "nome_PianetaFanta": "Damiani S.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1048970": {
+    "111870": {
+        "nome_PianetaFanta": "Fazzini J.",
+        "Ruolo": "C",
+        "Squadra": "Empoli"
+    },
+    "48970": {
         "nome_PianetaFanta": "Haas N.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1043574": {
+    "43574": {
         "nome_PianetaFanta": "Henderson L.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1069264": {
+    "112723": {
+        "nome_PianetaFanta": "Kaczmarski I.",
+        "Ruolo": "C",
+        "Squadra": "Empoli"
+    },
+    "69264": {
         "nome_PianetaFanta": "Ricci S.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1024401": {
+    "24401": {
         "nome_PianetaFanta": "Stulac L.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1067311": {
+    "67311": {
         "nome_PianetaFanta": "Zurkowski S.",
         "Ruolo": "C",
         "Squadra": "Empoli"
     },
-    "1051306": {
+    "51306": {
         "nome_PianetaFanta": "Cutrone P.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1040186": {
+    "40186": {
         "nome_PianetaFanta": "Di Francesco F.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1110648": {
+    "110648": {
         "nome_PianetaFanta": "Ekong E.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1059153": {
+    "59153": {
         "nome_PianetaFanta": "La Mantia A.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1046668": {
+    "46668": {
         "nome_PianetaFanta": "Mancuso L.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1059346": {
+    "59346": {
         "nome_PianetaFanta": "Pinamonti A.",
         "Ruolo": "A",
         "Squadra": "Empoli"
     },
-    "1052894": {
+    "66456": {
+        "nome_PianetaFanta": "Brancolini F.",
+        "Ruolo": "P",
+        "Squadra": "Fiorentina"
+    },
+    "52894": {
         "nome_PianetaFanta": "Dragowski B.",
         "Ruolo": "P",
         "Squadra": "Fiorentina"
     },
-    "1018237": {
+    "18237": {
         "nome_PianetaFanta": "Rosati A.",
         "Ruolo": "P",
         "Squadra": "Fiorentina"
     },
-    "1018210": {
+    "18210": {
         "nome_PianetaFanta": "Terracciano P.",
         "Ruolo": "P",
         "Squadra": "Fiorentina"
     },
-    "1058676": {
+    "58676": {
         "nome_PianetaFanta": "Odriozola A.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1021310": {
+    "21310": {
         "nome_PianetaFanta": "Biraghi C.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1062418": {
+    "111703": {
+        "nome_PianetaFanta": "Frison F.",
+        "Ruolo": "D",
+        "Squadra": "Fiorentina"
+    },
+    "62418": {
         "nome_PianetaFanta": "Igor Julio",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1102528": {
+    "102528": {
         "nome_PianetaFanta": "Martinez Quarta L.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1058528": {
+    "58528": {
         "nome_PianetaFanta": "Milenkovic N.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1018187": {
+    "18187": {
         "nome_PianetaFanta": "Nastasic M.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1063462": {
+    "63462": {
         "nome_PianetaFanta": "Terzic A.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1044578": {
+    "44578": {
         "nome_PianetaFanta": "Venuti L.",
         "Ruolo": "D",
         "Squadra": "Fiorentina"
     },
-    "1063071": {
+    "111628": {
+        "nome_PianetaFanta": "Agostinelli V.",
+        "Ruolo": "C",
+        "Squadra": "Fiorentina"
+    },
+    "63071": {
         "nome_PianetaFanta": "Amrabat S.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1038045": {
+    "38045": {
         "nome_PianetaFanta": "Benassi M.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1105484": {
+    "105484": {
         "nome_PianetaFanta": "Bianco A.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1018130": {
+    "18130": {
         "nome_PianetaFanta": "Bonaventura G.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1049214": {
+    "49214": {
         "nome_PianetaFanta": "Castrovilli G.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1029295": {
+    "29295": {
         "nome_PianetaFanta": "Duncan A.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1015994": {
+    "59450": {
+        "nome_PianetaFanta": "Ikone J.",
+        "Ruolo": "C",
+        "Squadra": "Fiorentina"
+    },
+    "15994": {
         "nome_PianetaFanta": "Callejon J.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1060933": {
+    "60933": {
         "nome_PianetaFanta": "Maleh Y.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1052105": {
+    "52105": {
         "nome_PianetaFanta": "Pulgar E.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1020939": {
+    "20939": {
         "nome_PianetaFanta": "Saponara R.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1046663": {
+    "46663": {
         "nome_PianetaFanta": "Torreira L.",
         "Ruolo": "C",
         "Squadra": "Fiorentina"
     },
-    "1095132": {
+    "77118": {
+        "nome_PianetaFanta": "Cabral A.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "111704": {
+        "nome_PianetaFanta": "Distefano F.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "111644": {
+        "nome_PianetaFanta": "Egharevba D.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "95132": {
         "nome_PianetaFanta": "Gonzalez N.",
         "Ruolo": "A",
         "Squadra": "Fiorentina"
     },
-    "1029693": {
+    "29693": {
         "nome_PianetaFanta": "Kokorin A.",
         "Ruolo": "A",
         "Squadra": "Fiorentina"
     },
-    "1064714": {
+    "105485": {
+        "nome_PianetaFanta": "Munteanu L.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "59965": {
+        "nome_PianetaFanta": "Piatek K.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "64714": {
         "nome_PianetaFanta": "Sottil R.",
         "Ruolo": "A",
         "Squadra": "Fiorentina"
     },
-    "1058192": {
+    "111629": {
+        "nome_PianetaFanta": "Toci E.",
+        "Ruolo": "A",
+        "Squadra": "Fiorentina"
+    },
+    "58192": {
         "nome_PianetaFanta": "Vlahovic D.",
         "Ruolo": "A",
         "Squadra": "Fiorentina"
     },
-    "1049764": {
+    "49764": {
         "nome_PianetaFanta": "Andrenacci L.",
         "Ruolo": "P",
         "Squadra": "Genoa"
     },
-    "1017885": {
+    "17885": {
         "nome_PianetaFanta": "Marchetti F.",
         "Ruolo": "P",
         "Squadra": "Genoa"
     },
-    "1052248": {
+    "52248": {
         "nome_PianetaFanta": "Semper A.",
         "Ruolo": "P",
         "Squadra": "Genoa"
     },
-    "1018396": {
+    "18396": {
         "nome_PianetaFanta": "Sirigu S.",
         "Ruolo": "P",
         "Squadra": "Genoa"
     },
-    "1040930": {
+    "40930": {
         "nome_PianetaFanta": "Bani M.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1029844": {
+    "29844": {
         "nome_PianetaFanta": "Biraschi D.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1102281": {
+    "102281": {
         "nome_PianetaFanta": "Cambiaso A.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1020075": {
+    "20075": {
         "nome_PianetaFanta": "Criscito D.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1045439": {
+    "95178": {
+        "nome_PianetaFanta": "Czyborra L.",
+        "Ruolo": "D",
+        "Squadra": "Genoa"
+    },
+    "45439": {
         "nome_PianetaFanta": "Fares M.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1024122": {
+    "97258": {
+        "nome_PianetaFanta": "Hefti S.",
+        "Ruolo": "D",
+        "Squadra": "Genoa"
+    },
+    "24122": {
         "nome_PianetaFanta": "Maksimovic N.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1018125": {
+    "18125": {
         "nome_PianetaFanta": "Masiello A.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1050006": {
+    "109993": {
+        "nome_PianetaFanta": "Ostigard L.",
+        "Ruolo": "D",
+        "Squadra": "Genoa"
+    },
+    "50006": {
         "nome_PianetaFanta": "Ghiglione P.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1018347": {
+    "18347": {
         "nome_PianetaFanta": "Radovanovic I.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1035198": {
+    "35198": {
         "nome_PianetaFanta": "Sabelli S.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1110601": {
+    "110601": {
         "nome_PianetaFanta": "Serpe L.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1062595": {
+    "62595": {
         "nome_PianetaFanta": "Vanheusden Z.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1110692": {
+    "110692": {
         "nome_PianetaFanta": "Vasquez J.",
         "Ruolo": "D",
         "Squadra": "Genoa"
     },
-    "1019244": {
+    "49740": {
+        "nome_PianetaFanta": "Amiri N.",
+        "Ruolo": "C",
+        "Squadra": "Genoa"
+    },
+    "19244": {
         "nome_PianetaFanta": "Badelj M.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1018193": {
+    "18193": {
         "nome_PianetaFanta": "Behrami V.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1058677": {
+    "58677": {
         "nome_PianetaFanta": "Cassata F.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1061643": {
+    "110784": {
+        "nome_PianetaFanta": "Frendrup M.",
+        "Ruolo": "C",
+        "Squadra": "Genoa"
+    },
+    "111419": {
+        "nome_PianetaFanta": "Galdames P.",
+        "Ruolo": "C",
+        "Squadra": "Genoa"
+    },
+    "61643": {
         "nome_PianetaFanta": "Hernani A.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1061461": {
+    "62750": {
+        "nome_PianetaFanta": "Lerager L.",
+        "Ruolo": "C",
+        "Squadra": "Genoa"
+    },
+    "61461": {
         "nome_PianetaFanta": "Melegoni F.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1071359": {
+    "71359": {
         "nome_PianetaFanta": "Portanova M.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1070706": {
+    "70706": {
         "nome_PianetaFanta": "Rovella N.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1018284": {
+    "18284": {
         "nome_PianetaFanta": "Sturaro S.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1042672": {
+    "42672": {
         "nome_PianetaFanta": "Toure A.",
         "Ruolo": "C",
         "Squadra": "Genoa"
     },
-    "1095210": {
+    "95210": {
         "nome_PianetaFanta": "Bianchi F.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1110126": {
+    "110126": {
         "nome_PianetaFanta": "Buksa A.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1023949": {
+    "23949": {
         "nome_PianetaFanta": "Caicedo F.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1018079": {
+    "18079": {
         "nome_PianetaFanta": "Destro M.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1039508": {
+    "39508": {
         "nome_PianetaFanta": "Ekuban C.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1109855": {
+    "61700": {
+        "nome_PianetaFanta": "Gudmundsson A.",
+        "Ruolo": "A",
+        "Squadra": "Genoa"
+    },
+    "109855": {
         "nome_PianetaFanta": "Kallon Y.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1018259": {
+    "18259": {
         "nome_PianetaFanta": "Pandev G.",
         "Ruolo": "A",
         "Squadra": "Genoa"
     },
-    "1021181": {
+    "111347": {
+        "nome_PianetaFanta": "Yeboah K.",
+        "Ruolo": "A",
+        "Squadra": "Genoa"
+    },
+    "21181": {
         "nome_PianetaFanta": "Cordaz A.",
         "Ruolo": "P",
         "Squadra": "Inter"
     },
-    "1017919": {
+    "95205": {
+        "nome_PianetaFanta": "Gabriel Brazao",
+        "Ruolo": "P",
+        "Squadra": "Inter"
+    },
+    "17919": {
         "nome_PianetaFanta": "Handanovic S.",
         "Ruolo": "P",
         "Squadra": "Inter"
     },
-    "1051634": {
+    "51634": {
         "nome_PianetaFanta": "Radu I.",
         "Ruolo": "P",
         "Squadra": "Inter"
     },
-    "1061306": {
+    "112396": {
+        "nome_PianetaFanta": "Rovida W.",
+        "Ruolo": "P",
+        "Squadra": "Inter"
+    },
+    "61306": {
         "nome_PianetaFanta": "Bastoni A.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1020948": {
+    "111762": {
+        "nome_PianetaFanta": "Cortinovis F.",
+        "Ruolo": "D",
+        "Squadra": "Inter"
+    },
+    "20948": {
         "nome_PianetaFanta": "D'Ambrosio D.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1020949": {
+    "20949": {
         "nome_PianetaFanta": "Darmian M.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1029803": {
+    "29803": {
         "nome_PianetaFanta": "De Vrij S.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1049778": {
+    "49778": {
         "nome_PianetaFanta": "Dimarco F.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1068112": {
+    "68112": {
         "nome_PianetaFanta": "Dumfries D.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1016928": {
+    "16928": {
         "nome_PianetaFanta": "Kolarov A.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1017862": {
+    "17862": {
         "nome_PianetaFanta": "Ranocchia A.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1024244": {
+    "24244": {
         "nome_PianetaFanta": "Skriniar M.",
         "Ruolo": "D",
         "Squadra": "Inter"
     },
-    "1045456": {
+    "111761": {
+        "nome_PianetaFanta": "Zanotti M.",
+        "Ruolo": "D",
+        "Squadra": "Inter"
+    },
+    "45456": {
         "nome_PianetaFanta": "Barella N.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1038700": {
+    "38700": {
         "nome_PianetaFanta": "Brozovic M.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1042724": {
+    "42724": {
         "nome_PianetaFanta": "Calhanoglu H.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1038964": {
+    "38964": {
         "nome_PianetaFanta": "Gagliardini R.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1017321": {
+    "17321": {
         "nome_PianetaFanta": "Perisic I.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1039153": {
+    "111507": {
+        "nome_PianetaFanta": "Sangalli M.",
+        "Ruolo": "C",
+        "Squadra": "Inter"
+    },
+    "39153": {
         "nome_PianetaFanta": "Sensi S.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1039529": {
+    "39529": {
         "nome_PianetaFanta": "Vecino M.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1017818": {
+    "17818": {
         "nome_PianetaFanta": "Vidal A.",
         "Ruolo": "C",
         "Squadra": "Inter"
     },
-    "1110075": {
+    "102761": {
+        "nome_PianetaFanta": "Carboni F.",
+        "Ruolo": "A",
+        "Squadra": "Inter"
+    },
+    "110075": {
         "nome_PianetaFanta": "Colidio F.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1049827": {
+    "49827": {
         "nome_PianetaFanta": "Correa C.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1016947": {
+    "112397": {
+        "nome_PianetaFanta": "Curatolo D.",
+        "Ruolo": "A",
+        "Squadra": "Inter"
+    },
+    "16947": {
         "nome_PianetaFanta": "Dzeko E.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1067777": {
+    "67777": {
         "nome_PianetaFanta": "Martinez L.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1016042": {
+    "16042": {
         "nome_PianetaFanta": "Sanchez A.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1102654": {
+    "102654": {
         "nome_PianetaFanta": "Satriano M.",
         "Ruolo": "A",
         "Squadra": "Inter"
     },
-    "1021155": {
+    "103052": {
+        "nome_PianetaFanta": "Israel F.",
+        "Ruolo": "P",
+        "Squadra": "Juventus"
+    },
+    "21155": {
         "nome_PianetaFanta": "Perin M.",
         "Ruolo": "P",
         "Squadra": "Juventus"
     },
-    "1020980": {
+    "20980": {
         "nome_PianetaFanta": "Pinsoglio C.",
         "Ruolo": "P",
         "Squadra": "Juventus"
     },
-    "1016572": {
+    "111782": {
+        "nome_PianetaFanta": "Raina M.",
+        "Ruolo": "P",
+        "Squadra": "Juventus"
+    },
+    "112228": {
+        "nome_PianetaFanta": "Senko Z.",
+        "Ruolo": "P",
+        "Squadra": "Juventus"
+    },
+    "16572": {
         "nome_PianetaFanta": "Szczesny W.",
         "Ruolo": "P",
         "Squadra": "Juventus"
     },
-    "1019957": {
+    "19957": {
         "nome_PianetaFanta": "Alex Sandro",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1017802": {
+    "17802": {
         "nome_PianetaFanta": "Bonucci L.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1017804": {
+    "17804": {
         "nome_PianetaFanta": "Chiellini G.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1018035": {
+    "18035": {
         "nome_PianetaFanta": "Cuadrado J.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1019956": {
+    "19956": {
         "nome_PianetaFanta": "Danilo Lu.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1060600": {
+    "60600": {
         "nome_PianetaFanta": "De Ligt M.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1017734": {
+    "17734": {
         "nome_PianetaFanta": "De Sciglio M.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1061624": {
+    "102806": {
+        "nome_PianetaFanta": "De Winter K.",
+        "Ruolo": "D",
+        "Squadra": "Juventus"
+    },
+    "61624": {
         "nome_PianetaFanta": "Pellegrini Lu.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1039349": {
+    "39349": {
         "nome_PianetaFanta": "Rugani D.",
         "Ruolo": "D",
         "Squadra": "Juventus"
     },
-    "1065103": {
+    "76541": {
+        "nome_PianetaFanta": "Ake M.",
+        "Ruolo": "C",
+        "Squadra": "Juventus"
+    },
+    "65103": {
         "nome_PianetaFanta": "Arthur",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1063039": {
+    "63039": {
         "nome_PianetaFanta": "Bentancur R.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1039156": {
+    "39156": {
         "nome_PianetaFanta": "Bernardeschi F.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1070956": {
+    "70956": {
         "nome_PianetaFanta": "Nicolussi Caviglia H.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1060742": {
+    "60742": {
         "nome_PianetaFanta": "Chiesa F.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1066419": {
+    "66419": {
         "nome_PianetaFanta": "Kulusevski D.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1050523": {
+    "50523": {
         "nome_PianetaFanta": "Locatelli M.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1095073": {
+    "95073": {
         "nome_PianetaFanta": "Mckennie W.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1038053": {
+    "111437": {
+        "nome_PianetaFanta": "Miretti F.",
+        "Ruolo": "C",
+        "Squadra": "Juventus"
+    },
+    "38053": {
         "nome_PianetaFanta": "Rabiot A.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1016591": {
+    "16591": {
         "nome_PianetaFanta": "Ramsey A.",
         "Ruolo": "C",
         "Squadra": "Juventus"
     },
-    "1037689": {
+    "51472": {
+        "nome_PianetaFanta": "Zakaria D.",
+        "Ruolo": "C",
+        "Squadra": "Juventus"
+    },
+    "103134": {
+        "nome_PianetaFanta": "Da Graca C.",
+        "Ruolo": "A",
+        "Squadra": "Juventus"
+    },
+    "37689": {
         "nome_PianetaFanta": "Dybala P.",
         "Ruolo": "A",
         "Squadra": "Juventus"
     },
-    "1110701": {
+    "110701": {
         "nome_PianetaFanta": "Kaio J.",
         "Ruolo": "A",
         "Squadra": "Juventus"
     },
-    "1061229": {
+    "61229": {
         "nome_PianetaFanta": "Kean M.",
         "Ruolo": "A",
         "Squadra": "Juventus"
     },
-    "1016005": {
+    "16005": {
         "nome_PianetaFanta": "Morata A.",
         "Ruolo": "A",
         "Squadra": "Juventus"
     },
-    "1095231": {
+    "111438": {
+        "nome_PianetaFanta": "Soule M.",
+        "Ruolo": "A",
+        "Squadra": "Juventus"
+    },
+    "95231": {
         "nome_PianetaFanta": "Adamonis M.",
         "Ruolo": "P",
         "Squadra": "Lazio"
     },
-    "1016670": {
+    "102807": {
+        "nome_PianetaFanta": "Furlanetto A.",
+        "Ruolo": "P",
+        "Squadra": "Lazio"
+    },
+    "111727": {
+        "nome_PianetaFanta": "Moretti G.",
+        "Ruolo": "P",
+        "Squadra": "Lazio"
+    },
+    "16670": {
         "nome_PianetaFanta": "Reina P.",
         "Ruolo": "P",
         "Squadra": "Lazio"
     },
-    "1038959": {
+    "38959": {
         "nome_PianetaFanta": "Strakosha T.",
         "Ruolo": "P",
         "Squadra": "Lazio"
     },
-    "1017958": {
+    "17958": {
         "nome_PianetaFanta": "Acerbi F.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1022248": {
+    "22248": {
         "nome_PianetaFanta": "Durmisi R.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1020915": {
+    "111607": {
+        "nome_PianetaFanta": "Floriani R.",
+        "Ruolo": "D",
+        "Squadra": "Lazio"
+    },
+    "20915": {
         "nome_PianetaFanta": "Hysaj E.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1063482": {
+    "63482": {
         "nome_PianetaFanta": "Kamenovic D.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1059671": {
+    "59671": {
         "nome_PianetaFanta": "Lazzari M.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1060977": {
+    "60977": {
         "nome_PianetaFanta": "Luiz Felipe R.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1063096": {
+    "63096": {
         "nome_PianetaFanta": "Marusic A.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1044231": {
+    "44231": {
         "nome_PianetaFanta": "Patric P.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1017895": {
+    "17895": {
         "nome_PianetaFanta": "Radu S.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1040304": {
+    "40304": {
         "nome_PianetaFanta": "Vavro D.",
         "Ruolo": "D",
         "Squadra": "Lazio"
     },
-    "1018657": {
+    "18657": {
         "nome_PianetaFanta": "Akpa Akpro J.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1069588": {
+    "69588": {
         "nome_PianetaFanta": "Anderson A.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1051334": {
+    "51334": {
         "nome_PianetaFanta": "Basic T.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1040044": {
+    "102809": {
+        "nome_PianetaFanta": "Bertini M.",
+        "Ruolo": "C",
+        "Squadra": "Lazio"
+    },
+    "40044": {
         "nome_PianetaFanta": "Cataldi D.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1048945": {
+    "45566": {
+        "nome_PianetaFanta": "Dziczek P.",
+        "Ruolo": "C",
+        "Squadra": "Lazio"
+    },
+    "48945": {
         "nome_PianetaFanta": "Escalante G.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1040988": {
+    "40988": {
         "nome_PianetaFanta": "Anderson F.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1051738": {
+    "51738": {
         "nome_PianetaFanta": "Jony",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1016686": {
+    "39744": {
+        "nome_PianetaFanta": "Lombardi C.",
+        "Ruolo": "C",
+        "Squadra": "Lazio"
+    },
+    "16686": {
         "nome_PianetaFanta": "Leiva L.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1016137": {
+    "16137": {
         "nome_PianetaFanta": "Luis Alberto",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1044219": {
+    "44219": {
         "nome_PianetaFanta": "Milinkovic S.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1094719": {
+    "94719": {
         "nome_PianetaFanta": "Romero L.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1043177": {
+    "43177": {
         "nome_PianetaFanta": "Zaccagni M.",
         "Ruolo": "C",
         "Squadra": "Lazio"
     },
-    "1071742": {
+    "71742": {
         "nome_PianetaFanta": "Bobby A.",
         "Ruolo": "A",
         "Squadra": "Lazio"
     },
-    "1021148": {
+    "21148": {
         "nome_PianetaFanta": "Immobile C.",
         "Ruolo": "A",
         "Squadra": "Lazio"
     },
-    "1102007": {
+    "69567": {
+        "nome_PianetaFanta": "Cabral J.",
+        "Ruolo": "A",
+        "Squadra": "Lazio"
+    },
+    "102007": {
         "nome_PianetaFanta": "Muriqi V.",
         "Ruolo": "A",
         "Squadra": "Lazio"
     },
-    "1016041": {
+    "16041": {
         "nome_PianetaFanta": "Pedro",
         "Ruolo": "A",
         "Squadra": "Lazio"
     },
-    "1095232": {
+    "95232": {
         "nome_PianetaFanta": "Moro R.",
         "Ruolo": "A",
         "Squadra": "Lazio"
     },
-    "1042646": {
+    "111597": {
+        "nome_PianetaFanta": "Desplanches S.",
+        "Ruolo": "P",
+        "Squadra": "Milan"
+    },
+    "102777": {
+        "nome_PianetaFanta": "Jungdal A.",
+        "Ruolo": "P",
+        "Squadra": "Milan"
+    },
+    "42646": {
         "nome_PianetaFanta": "Maignan M.",
         "Ruolo": "P",
         "Squadra": "Milan"
     },
-    "1060787": {
+    "17826": {
+        "nome_PianetaFanta": "Mirante A.",
+        "Ruolo": "P",
+        "Squadra": "Milan"
+    },
+    "112224": {
+        "nome_PianetaFanta": "Nava L.",
+        "Ruolo": "P",
+        "Squadra": "Milan"
+    },
+    "60787": {
         "nome_PianetaFanta": "Plizzari A.",
         "Ruolo": "P",
         "Squadra": "Milan"
     },
-    "1023839": {
+    "23839": {
         "nome_PianetaFanta": "Tatarusanu C.",
         "Ruolo": "P",
         "Squadra": "Milan"
     },
-    "1061230": {
+    "61230": {
         "nome_PianetaFanta": "Ballo Toure F.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1050066": {
+    "50066": {
         "nome_PianetaFanta": "Calabria D.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1046678": {
+    "46678": {
         "nome_PianetaFanta": "Conti A.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1021112": {
+    "21112": {
         "nome_PianetaFanta": "Florenzi A.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1062553": {
+    "62553": {
         "nome_PianetaFanta": "Gabbia M.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1058087": {
+    "58087": {
         "nome_PianetaFanta": "Hernandez T.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1101889": {
+    "101889": {
         "nome_PianetaFanta": "Kalulu P.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1017773": {
+    "17773": {
         "nome_PianetaFanta": "Kjaer S.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1038408": {
+    "38408": {
         "nome_PianetaFanta": "Romagnoli A.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1058709": {
+    "106081": {
+        "nome_PianetaFanta": "Stanga L.",
+        "Ruolo": "D",
+        "Squadra": "Milan"
+    },
+    "58709": {
         "nome_PianetaFanta": "Tomori F.",
         "Ruolo": "D",
         "Squadra": "Milan"
     },
-    "1043494": {
+    "43494": {
         "nome_PianetaFanta": "Bakayoko T.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1053758": {
+    "53758": {
         "nome_PianetaFanta": "Bennacer I.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1061097": {
+    "61097": {
         "nome_PianetaFanta": "Diaz B.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1064560": {
+    "104940": {
+        "nome_PianetaFanta": "Gesu E.",
+        "Ruolo": "C",
+        "Squadra": "Milan"
+    },
+    "64560": {
         "nome_PianetaFanta": "Messias J.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1050707": {
+    "50707": {
         "nome_PianetaFanta": "Kessie F.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1051217": {
+    "51217": {
         "nome_PianetaFanta": "Krunic R.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1073082": {
+    "73082": {
         "nome_PianetaFanta": "Maldini D.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1065986": {
+    "65986": {
         "nome_PianetaFanta": "Saelemaekers A.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1048239": {
+    "48239": {
         "nome_PianetaFanta": "Castillejo S.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1064571": {
+    "64571": {
         "nome_PianetaFanta": "Tonali S.",
         "Ruolo": "C",
         "Squadra": "Milan"
     },
-    "1018793": {
+    "18793": {
         "nome_PianetaFanta": "Giroud O.",
         "Ruolo": "A",
         "Squadra": "Milan"
     },
-    "1017760": {
+    "17760": {
         "nome_PianetaFanta": "Ibrahimovic Z.",
         "Ruolo": "A",
         "Squadra": "Milan"
     },
-    "1065436": {
+    "103080": {
+        "nome_PianetaFanta": "Lazetic M.",
+        "Ruolo": "A",
+        "Squadra": "Milan"
+    },
+    "65436": {
         "nome_PianetaFanta": "Leao R.",
         "Ruolo": "A",
         "Squadra": "Milan"
     },
-    "1061625": {
+    "61625": {
         "nome_PianetaFanta": "Pellegri P.",
         "Ruolo": "A",
         "Squadra": "Milan"
     },
-    "1024864": {
+    "24864": {
         "nome_PianetaFanta": "Rebic A.",
         "Ruolo": "A",
         "Squadra": "Milan"
     },
-    "1110712": {
+    "97978": {
+        "nome_PianetaFanta": "Roback E.",
+        "Ruolo": "A",
+        "Squadra": "Milan"
+    },
+    "111469": {
+        "nome_PianetaFanta": "Boffelli V.",
+        "Ruolo": "P",
+        "Squadra": "Napoli"
+    },
+    "95233": {
+        "nome_PianetaFanta": "Idasiak H.",
+        "Ruolo": "P",
+        "Squadra": "Napoli"
+    },
+    "110712": {
         "nome_PianetaFanta": "Marfella D.",
         "Ruolo": "P",
         "Squadra": "Napoli"
     },
-    "1049089": {
+    "49089": {
         "nome_PianetaFanta": "Meret A.",
         "Ruolo": "P",
         "Squadra": "Napoli"
     },
-    "1018588": {
+    "18588": {
         "nome_PianetaFanta": "Ospina D.",
         "Ruolo": "P",
         "Squadra": "Napoli"
     },
-    "1020809": {
+    "111724": {
+        "nome_PianetaFanta": "Barba B.",
+        "Ruolo": "D",
+        "Squadra": "Napoli"
+    },
+    "105526": {
+        "nome_PianetaFanta": "Costanzo D.",
+        "Ruolo": "D",
+        "Squadra": "Napoli"
+    },
+    "20809": {
         "nome_PianetaFanta": "Di Lorenzo G.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1018714": {
+    "18714": {
         "nome_PianetaFanta": "Ghoulam F.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1017861": {
+    "17861": {
         "nome_PianetaFanta": "Jesus J.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1035475": {
+    "35475": {
         "nome_PianetaFanta": "Koulibaly K.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1053456": {
+    "53456": {
         "nome_PianetaFanta": "Malcuit K.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1022704": {
+    "111778": {
+        "nome_PianetaFanta": "Mane B.",
+        "Ruolo": "D",
+        "Squadra": "Napoli"
+    },
+    "22704": {
         "nome_PianetaFanta": "Manolas K.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1021390": {
+    "21390": {
         "nome_PianetaFanta": "Mario Rui",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1051495": {
+    "51495": {
         "nome_PianetaFanta": "Rrahmani A.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1110713": {
+    "112229": {
+        "nome_PianetaFanta": "Spedalieri J.",
+        "Ruolo": "D",
+        "Squadra": "Napoli"
+    },
+    "53800": {
+        "nome_PianetaFanta": "Tuanzebe A.",
+        "Ruolo": "D",
+        "Squadra": "Napoli"
+    },
+    "110713": {
         "nome_PianetaFanta": "Zanoli A.",
         "Ruolo": "D",
         "Squadra": "Napoli"
     },
-    "1059565": {
+    "59565": {
         "nome_PianetaFanta": "Demme D.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1053662": {
+    "53662": {
         "nome_PianetaFanta": "Elmas E.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1051717": {
+    "51717": {
         "nome_PianetaFanta": "Ruiz F.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1044090": {
+    "44090": {
         "nome_PianetaFanta": "Lobotka S.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1050050": {
+    "17479": {
+        "nome_PianetaFanta": "Younes A.",
+        "Ruolo": "C",
+        "Squadra": "Napoli"
+    },
+    "50050": {
         "nome_PianetaFanta": "Anguissa A.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1038482": {
+    "38482": {
         "nome_PianetaFanta": "Zielinski P.",
         "Ruolo": "C",
         "Squadra": "Napoli"
     },
-    "1021149": {
+    "111725": {
+        "nome_PianetaFanta": "Ambrosino G.",
+        "Ruolo": "A",
+        "Squadra": "Napoli"
+    },
+    "103753": {
+        "nome_PianetaFanta": "Cioffi A.",
+        "Ruolo": "A",
+        "Squadra": "Napoli"
+    },
+    "21149": {
         "nome_PianetaFanta": "Insigne L.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1058072": {
+    "58072": {
         "nome_PianetaFanta": "Lozano H.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1023438": {
+    "23438": {
         "nome_PianetaFanta": "Mertens D.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1059246": {
+    "59246": {
         "nome_PianetaFanta": "Osimhen V.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1053652": {
+    "53652": {
         "nome_PianetaFanta": "Ounas A.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1039180": {
+    "39180": {
         "nome_PianetaFanta": "Petagna A.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1040864": {
+    "40864": {
         "nome_PianetaFanta": "Politano M.",
         "Ruolo": "A",
         "Squadra": "Napoli"
     },
-    "1102236": {
+    "111808": {
+        "nome_PianetaFanta": "Vergara A.",
+        "Ruolo": "A",
+        "Squadra": "Napoli"
+    },
+    "102236": {
         "nome_PianetaFanta": "Boer P.",
         "Ruolo": "P",
         "Squadra": "Roma"
     },
-    "1067764": {
+    "67764": {
         "nome_PianetaFanta": "Fuzato D.",
         "Ruolo": "P",
         "Squadra": "Roma"
     },
-    "1023699": {
+    "111806": {
+        "nome_PianetaFanta": "Mastrantonio D.",
+        "Ruolo": "P",
+        "Squadra": "Roma"
+    },
+    "23699": {
         "nome_PianetaFanta": "Rui Patricio",
         "Ruolo": "P",
         "Squadra": "Roma"
     },
-    "1095174": {
+    "95174": {
         "nome_PianetaFanta": "Calafiori R.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1048407": {
+    "48407": {
         "nome_PianetaFanta": "Karsdorp R.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1064677": {
+    "112562": {
+        "nome_PianetaFanta": "Keramitsis D.",
+        "Ruolo": "D",
+        "Squadra": "Roma"
+    },
+    "64677": {
         "nome_PianetaFanta": "Kumbulla M.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1049438": {
+    "49438": {
         "nome_PianetaFanta": "Mancini G.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1103257": {
+    "111605": {
+        "nome_PianetaFanta": "Missori F.",
+        "Ruolo": "D",
+        "Squadra": "Roma"
+    },
+    "111777": {
+        "nome_PianetaFanta": "Ndiaye M.",
+        "Ruolo": "D",
+        "Squadra": "Roma"
+    },
+    "112561": {
+        "nome_PianetaFanta": "Oliveras J.",
+        "Ruolo": "D",
+        "Squadra": "Roma"
+    },
+    "103257": {
         "nome_PianetaFanta": "Reynolds B.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1070483": {
+    "70483": {
         "nome_PianetaFanta": "Ibanez",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1016642": {
+    "16704": {
+        "nome_PianetaFanta": "Santon D.",
+        "Ruolo": "D",
+        "Squadra": "Roma"
+    },
+    "16642": {
         "nome_PianetaFanta": "Smalling C.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1026211": {
+    "26211": {
         "nome_PianetaFanta": "Spinazzola L.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1110600": {
+    "110600": {
         "nome_PianetaFanta": "Vina M.",
         "Ruolo": "D",
         "Squadra": "Roma"
     },
-    "1066179": {
+    "103146": {
+        "nome_PianetaFanta": "Bove E.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "66179": {
         "nome_PianetaFanta": "Perez C.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1017744": {
+    "17744": {
         "nome_PianetaFanta": "Cristante B.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1102679": {
+    "102679": {
         "nome_PianetaFanta": "Darboe E.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1051219": {
+    "51219": {
         "nome_PianetaFanta": "Diawara A.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1066561": {
+    "103026": {
+        "nome_PianetaFanta": "Feratovic A.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "66561": {
         "nome_PianetaFanta": "Villar G.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1020517": {
+    "49748": {
+        "nome_PianetaFanta": "Maitland Niles A.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "20517": {
         "nome_PianetaFanta": "Mkhitaryan H.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1045397": {
+    "45397": {
         "nome_PianetaFanta": "Pellegrini Lo.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1042674": {
+    "64859": {
+        "nome_PianetaFanta": "Riccardi A.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "43341": {
+        "nome_PianetaFanta": "Oliveira S.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "102902": {
+        "nome_PianetaFanta": "Tripi F.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "42674": {
         "nome_PianetaFanta": "Veretout J.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1102680": {
+    "111630": {
+        "nome_PianetaFanta": "Volpato C.",
+        "Ruolo": "C",
+        "Squadra": "Roma"
+    },
+    "102680": {
         "nome_PianetaFanta": "Zalewski N.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1061639": {
+    "61639": {
         "nome_PianetaFanta": "Zaniolo N.",
         "Ruolo": "C",
         "Squadra": "Roma"
     },
-    "1058710": {
+    "58710": {
         "nome_PianetaFanta": "Abraham T.",
         "Ruolo": "A",
         "Squadra": "Roma"
     },
-    "1050748": {
+    "111606": {
+        "nome_PianetaFanta": "Felix A.",
+        "Ruolo": "A",
+        "Squadra": "Roma"
+    },
+    "50748": {
         "nome_PianetaFanta": "Mayoral B.",
         "Ruolo": "A",
         "Squadra": "Roma"
     },
-    "1017758": {
+    "17758": {
         "nome_PianetaFanta": "El Shaarawy S.",
         "Ruolo": "A",
         "Squadra": "Roma"
     },
-    "1097673": {
+    "97673": {
         "nome_PianetaFanta": "Shomurodov E.",
         "Ruolo": "A",
         "Squadra": "Roma"
     },
-    "1021098": {
+    "111807": {
+        "nome_PianetaFanta": "Voelkerling Persson J.",
+        "Ruolo": "A",
+        "Squadra": "Roma"
+    },
+    "21098": {
         "nome_PianetaFanta": "Belec V.",
         "Ruolo": "P",
         "Squadra": "Salernitana"
     },
-    "1020741": {
+    "20741": {
         "nome_PianetaFanta": "Fiorillo V.",
         "Ruolo": "P",
         "Squadra": "Salernitana"
     },
-    "1038976": {
+    "38976": {
         "nome_PianetaFanta": "Guerrieri G.",
         "Ruolo": "P",
         "Squadra": "Salernitana"
     },
-    "1069321": {
+    "96494": {
+        "nome_PianetaFanta": "De Matteis J.",
+        "Ruolo": "P",
+        "Squadra": "Salernitana"
+    },
+    "102473": {
+        "nome_PianetaFanta": "Russo A.",
+        "Ruolo": "P",
+        "Squadra": "Salernitana"
+    },
+    "26743": {
+        "nome_PianetaFanta": "Sepe L.",
+        "Ruolo": "P",
+        "Squadra": "Salernitana"
+    },
+    "69321": {
         "nome_PianetaFanta": "Aya R.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1060656": {
+    "60656": {
         "nome_PianetaFanta": "Bogdan L.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1111388": {
+    "112553": {
+        "nome_PianetaFanta": "De Lorenzo T.",
+        "Ruolo": "D",
+        "Squadra": "Salernitana"
+    },
+    "111388": {
         "nome_PianetaFanta": "Delli Carri F.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1043036": {
+    "16115": {
+        "nome_PianetaFanta": "Fazio F.",
+        "Ruolo": "D",
+        "Squadra": "Salernitana"
+    },
+    "43036": {
         "nome_PianetaFanta": "Gagliolo R.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1040996": {
+    "40996": {
         "nome_PianetaFanta": "Gyomber N.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1059971": {
+    "59971": {
         "nome_PianetaFanta": "Jaroszynski P.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1110665": {
+    "70335": {
+        "nome_PianetaFanta": "Kalombo S.",
+        "Ruolo": "D",
+        "Squadra": "Salernitana"
+    },
+    "110665": {
         "nome_PianetaFanta": "Kechrida W.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1064713": {
+    "112403": {
+        "nome_PianetaFanta": "Perrone M.",
+        "Ruolo": "D",
+        "Squadra": "Salernitana"
+    },
+    "64713": {
         "nome_PianetaFanta": "Ranieri L.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1102345": {
+    "102345": {
         "nome_PianetaFanta": "Ruggeri M.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1019908": {
+    "19908": {
         "nome_PianetaFanta": "Strandberg S.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1025949": {
+    "25949": {
         "nome_PianetaFanta": "Veseli F.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1076574": {
+    "76574": {
         "nome_PianetaFanta": "Zortea N.",
         "Ruolo": "D",
         "Squadra": "Salernitana"
     },
-    "1038454": {
+    "105598": {
+        "nome_PianetaFanta": "Bohinen E.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "38454": {
         "nome_PianetaFanta": "Capezzi L.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1095265": {
+    "39231": {
+        "nome_PianetaFanta": "Cavion M.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "95265": {
         "nome_PianetaFanta": "Coulibaly L.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1062349": {
+    "62349": {
         "nome_PianetaFanta": "Coulibaly M.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1021322": {
+    "21322": {
         "nome_PianetaFanta": "Di Tacchio F.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1060454": {
+    "112712": {
+        "nome_PianetaFanta": "Ederson",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "112674": {
+        "nome_PianetaFanta": "Iervolino A.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "60454": {
         "nome_PianetaFanta": "Kastanos G.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1017868": {
+    "23686": {
+        "nome_PianetaFanta": "Kupisz T.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "111830": {
+        "nome_PianetaFanta": "Motoc A.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "17868": {
         "nome_PianetaFanta": "Obi J.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1102366": {
+    "111829": {
+        "nome_PianetaFanta": "Russo A.",
+        "Ruolo": "C",
+        "Squadra": "Salernitana"
+    },
+    "102366": {
         "nome_PianetaFanta": "Schiavone A.",
         "Ruolo": "C",
         "Squadra": "Salernitana"
     },
-    "1044263": {
+    "44263": {
         "nome_PianetaFanta": "Bonazzoli F.",
         "Ruolo": "A",
         "Squadra": "Salernitana"
     },
-    "1021121": {
+    "111831": {
+        "nome_PianetaFanta": "Cannavale L.",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "21121": {
         "nome_PianetaFanta": "Djuric M.",
         "Ruolo": "A",
         "Squadra": "Salernitana"
     },
-    "1102090": {
+    "102090": {
         "nome_PianetaFanta": "Vergani E.",
         "Ruolo": "A",
         "Squadra": "Salernitana"
     },
-    "1060434": {
+    "112675": {
+        "nome_PianetaFanta": "Guida A.",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "112724": {
+        "nome_PianetaFanta": "Mikael",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "59176": {
+        "nome_PianetaFanta": "Mousset L.",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "60434": {
         "nome_PianetaFanta": "Simy N.",
         "Ruolo": "A",
         "Squadra": "Salernitana"
     },
-    "1048586": {
+    "16128": {
+        "nome_PianetaFanta": "Perotti D.",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "17232": {
+        "nome_PianetaFanta": "Ribery F.",
+        "Ruolo": "A",
+        "Squadra": "Salernitana"
+    },
+    "48586": {
         "nome_PianetaFanta": "Audero E.",
         "Ruolo": "P",
         "Squadra": "Sampdoria"
     },
-    "1038409": {
+    "72901": {
+        "nome_PianetaFanta": "Esposito M.",
+        "Ruolo": "P",
+        "Squadra": "Sampdoria"
+    },
+    "38409": {
         "nome_PianetaFanta": "Falcone W.",
         "Ruolo": "P",
         "Squadra": "Sampdoria"
     },
-    "1018294": {
+    "18294": {
         "nome_PianetaFanta": "Ravaglia N.",
         "Ruolo": "P",
         "Squadra": "Sampdoria"
     },
-    "1064419": {
+    "112230": {
+        "nome_PianetaFanta": "Saio I.",
+        "Ruolo": "P",
+        "Squadra": "Sampdoria"
+    },
+    "112589": {
+        "nome_PianetaFanta": "Aquino L.",
+        "Ruolo": "D",
+        "Squadra": "Sampdoria"
+    },
+    "64419": {
         "nome_PianetaFanta": "Augello T.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1036233": {
+    "36233": {
         "nome_PianetaFanta": "Bereszynski B.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1071604": {
+    "71604": {
         "nome_PianetaFanta": "Chabot J.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1039512": {
+    "39512": {
         "nome_PianetaFanta": "Colley O.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1058026": {
+    "58026": {
         "nome_PianetaFanta": "Depaoli F.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1102945": {
+    "102945": {
         "nome_PianetaFanta": "Dragusin R.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1040419": {
+    "40419": {
         "nome_PianetaFanta": "Ferrari A.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1018155": {
+    "111631": {
+        "nome_PianetaFanta": "Migliardi F.",
+        "Ruolo": "D",
+        "Squadra": "Sampdoria"
+    },
+    "18155": {
         "nome_PianetaFanta": "Murru N.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1038556": {
+    "38556": {
         "nome_PianetaFanta": "Yoshida M.",
         "Ruolo": "D",
         "Squadra": "Sampdoria"
     },
-    "1038183": {
+    "38183": {
         "nome_PianetaFanta": "Silva A.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1095242": {
+    "95242": {
         "nome_PianetaFanta": "Askildsen K.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1017903": {
+    "17903": {
         "nome_PianetaFanta": "Candreva A.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1099704": {
+    "103077": {
+        "nome_PianetaFanta": "Ciervo R.",
+        "Ruolo": "C",
+        "Squadra": "Sampdoria"
+    },
+    "99704": {
         "nome_PianetaFanta": "Damsgaard M.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1018163": {
+    "18163": {
         "nome_PianetaFanta": "Ekdal A.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1069297": {
+    "110714": {
+        "nome_PianetaFanta": "Yepes Laut G.",
+        "Ruolo": "C",
+        "Squadra": "Sampdoria"
+    },
+    "69297": {
         "nome_PianetaFanta": "Vieira R.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1040227": {
+    "40227": {
         "nome_PianetaFanta": "Thorsby M.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1017788": {
+    "110715": {
+        "nome_PianetaFanta": "Trimboli S.",
+        "Ruolo": "C",
+        "Squadra": "Sampdoria"
+    },
+    "17788": {
         "nome_PianetaFanta": "Verre V.",
         "Ruolo": "C",
         "Squadra": "Sampdoria"
     },
-    "1021265": {
+    "69262": {
+        "nome_PianetaFanta": "Bahlouli M.",
+        "Ruolo": "A",
+        "Squadra": "Sampdoria"
+    },
+    "21265": {
         "nome_PianetaFanta": "Caputo F.",
         "Ruolo": "A",
         "Squadra": "Sampdoria"
     },
-    "1018143": {
+    "18143": {
         "nome_PianetaFanta": "Gabbiadini M.",
         "Ruolo": "A",
         "Squadra": "Sampdoria"
     },
-    "1098857": {
+    "98857": {
         "nome_PianetaFanta": "Ihattaren M.",
         "Ruolo": "A",
         "Squadra": "Sampdoria"
     },
-    "1017822": {
+    "17822": {
         "nome_PianetaFanta": "Quagliarella F.",
         "Ruolo": "A",
         "Squadra": "Sampdoria"
     },
-    "1040878": {
+    "64776": {
+        "nome_PianetaFanta": "Sabiri A.",
+        "Ruolo": "A",
+        "Squadra": "Sampdoria"
+    },
+    "95806": {
+        "nome_PianetaFanta": "Supriaha V.",
+        "Ruolo": "A",
+        "Squadra": "Sampdoria"
+    },
+    "40878": {
         "nome_PianetaFanta": "Torregrossa E.",
         "Ruolo": "A",
         "Squadra": "Sampdoria"
     },
-    "1018116": {
+    "18116": {
         "nome_PianetaFanta": "Consigli A.",
         "Ruolo": "P",
         "Squadra": "Sassuolo"
     },
-    "1018055": {
+    "18055": {
         "nome_PianetaFanta": "Pegolo G.",
         "Ruolo": "P",
         "Squadra": "Sassuolo"
     },
-    "1040253": {
+    "110134": {
+        "nome_PianetaFanta": "Satalino G.",
+        "Ruolo": "P",
+        "Squadra": "Sassuolo"
+    },
+    "102866": {
+        "nome_PianetaFanta": "Vitale S.",
+        "Ruolo": "P",
+        "Squadra": "Sassuolo"
+    },
+    "111878": {
+        "nome_PianetaFanta": "Zacchi G.",
+        "Ruolo": "P",
+        "Squadra": "Sassuolo"
+    },
+    "58060": {
+        "nome_PianetaFanta": "Adjapong C.",
+        "Ruolo": "D",
+        "Squadra": "Sassuolo"
+    },
+    "40253": {
         "nome_PianetaFanta": "Ayhan K.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1023840": {
+    "23840": {
         "nome_PianetaFanta": "Chiriches V.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1046656": {
+    "46656": {
         "nome_PianetaFanta": "Ferrari G.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1039172": {
+    "39172": {
         "nome_PianetaFanta": "Goldaniga E.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1043465": {
+    "43465": {
         "nome_PianetaFanta": "Kyriakopoulos G.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1068522": {
+    "68522": {
         "nome_PianetaFanta": "Muldur M.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1018127": {
+    "112565": {
+        "nome_PianetaFanta": "Paz Y.",
+        "Ruolo": "D",
+        "Squadra": "Sassuolo"
+    },
+    "18127": {
         "nome_PianetaFanta": "Peluso F.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1058044": {
+    "112566": {
+        "nome_PianetaFanta": "Pieragnolo E.",
+        "Ruolo": "D",
+        "Squadra": "Sassuolo"
+    },
+    "58044": {
         "nome_PianetaFanta": "Rogerio O.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1045105": {
+    "45105": {
         "nome_PianetaFanta": "Romagna F.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1040322": {
+    "112217": {
+        "nome_PianetaFanta": "Ruan T.",
+        "Ruolo": "D",
+        "Squadra": "Sassuolo"
+    },
+    "40322": {
         "nome_PianetaFanta": "Toljan J.",
         "Ruolo": "D",
         "Squadra": "Sassuolo"
     },
-    "1029769": {
+    "112404": {
+        "nome_PianetaFanta": "Abubakar S.",
+        "Ruolo": "C",
+        "Squadra": "Sassuolo"
+    },
+    "112232": {
+        "nome_PianetaFanta": "Aucelli C.",
+        "Ruolo": "C",
+        "Squadra": "Sassuolo"
+    },
+    "29769": {
         "nome_PianetaFanta": "Djuricic F.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1061532": {
+    "61532": {
         "nome_PianetaFanta": "Frattesi D.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1111389": {
+    "111389": {
         "nome_PianetaFanta": "Harroui A.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1048527": {
+    "112231": {
+        "nome_PianetaFanta": "Kumi J.",
+        "Ruolo": "C",
+        "Squadra": "Sassuolo"
+    },
+    "48527": {
         "nome_PianetaFanta": "Lopez M.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1021418": {
+    "21418": {
         "nome_PianetaFanta": "Magnanelli F.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1110666": {
+    "112233": {
+        "nome_PianetaFanta": "Mata A.",
+        "Ruolo": "C",
+        "Squadra": "Sassuolo"
+    },
+    "110666": {
         "nome_PianetaFanta": "Henrique M.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1020757": {
+    "20757": {
         "nome_PianetaFanta": "Obiang P.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1064555": {
+    "64555": {
         "nome_PianetaFanta": "Traore H.",
         "Ruolo": "C",
         "Squadra": "Sassuolo"
     },
-    "1035059": {
+    "35059": {
         "nome_PianetaFanta": "Berardi D.",
         "Ruolo": "A",
         "Squadra": "Sassuolo"
     },
-    "1046806": {
+    "46806": {
         "nome_PianetaFanta": "Boga J.",
         "Ruolo": "A",
         "Squadra": "Sassuolo"
     },
-    "1037855": {
+    "98961": {
+        "nome_PianetaFanta": "Ceide E.",
+        "Ruolo": "A",
+        "Squadra": "Sassuolo"
+    },
+    "37855": {
         "nome_PianetaFanta": "Defrel G.",
         "Ruolo": "A",
         "Squadra": "Sassuolo"
     },
-    "1066162": {
+    "103030": {
+        "nome_PianetaFanta": "Oddei B.",
+        "Ruolo": "A",
+        "Squadra": "Sassuolo"
+    },
+    "66162": {
         "nome_PianetaFanta": "Raspadori G.",
         "Ruolo": "A",
         "Squadra": "Sassuolo"
     },
-    "1061870": {
+    "109530": {
+        "nome_PianetaFanta": "Samele L.",
+        "Ruolo": "A",
+        "Squadra": "Sassuolo"
+    },
+    "61870": {
         "nome_PianetaFanta": "Scamacca G.",
         "Ruolo": "A",
         "Squadra": "Sassuolo"
     },
-    "1039507": {
+    "102530": {
+        "nome_PianetaFanta": "Schiappacase N.",
+        "Ruolo": "A",
+        "Squadra": "Sassuolo"
+    },
+    "39507": {
         "nome_PianetaFanta": "Provedel I.",
         "Ruolo": "P",
         "Squadra": "Spezia"
     },
-    "1028211": {
+    "28211": {
         "nome_PianetaFanta": "Zoet J.",
         "Ruolo": "P",
         "Squadra": "Spezia"
     },
-    "1110203": {
+    "110203": {
         "nome_PianetaFanta": "Zovko P.",
         "Ruolo": "P",
         "Squadra": "Spezia"
     },
-    "1053593": {
+    "53593": {
         "nome_PianetaFanta": "Amian K.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1044766": {
+    "44766": {
         "nome_PianetaFanta": "Bastoni S.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1050217": {
+    "109914": {
+        "nome_PianetaFanta": "Bertola N.",
+        "Ruolo": "D",
+        "Squadra": "Spezia"
+    },
+    "50217": {
         "nome_PianetaFanta": "Erlic M.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1095171": {
+    "110709": {
+        "nome_PianetaFanta": "Gabelli L.",
+        "Ruolo": "D",
+        "Squadra": "Spezia"
+    },
+    "95171": {
         "nome_PianetaFanta": "Hristov P.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1098525": {
+    "98525": {
         "nome_PianetaFanta": "Kiwior J.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1058062": {
+    "58062": {
         "nome_PianetaFanta": "Nikolaou D.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1067785": {
+    "67785": {
         "nome_PianetaFanta": "Reca A.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1017385": {
+    "17385": {
         "nome_PianetaFanta": "Sala J.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1076674": {
+    "76674": {
         "nome_PianetaFanta": "Ferrer S.",
         "Ruolo": "D",
         "Squadra": "Spezia"
     },
-    "1076585": {
+    "76585": {
         "nome_PianetaFanta": "Agudelo K.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1052588": {
+    "52588": {
         "nome_PianetaFanta": "Bourabia M.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1049574": {
+    "96479": {
+        "nome_PianetaFanta": "Figoli M.",
+        "Ruolo": "C",
+        "Squadra": "Spezia"
+    },
+    "110226": {
+        "nome_PianetaFanta": "Kornvig E.",
+        "Ruolo": "C",
+        "Squadra": "Spezia"
+    },
+    "49574": {
         "nome_PianetaFanta": "Kovalenko V.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1102497": {
+    "102497": {
         "nome_PianetaFanta": "Sena L.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1059423": {
+    "59423": {
         "nome_PianetaFanta": "Maggiore G.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1097975": {
+    "111574": {
+        "nome_PianetaFanta": "Nguiamba A.",
+        "Ruolo": "C",
+        "Squadra": "Spezia"
+    },
+    "109915": {
+        "nome_PianetaFanta": "Pietra N.",
+        "Ruolo": "C",
+        "Squadra": "Spezia"
+    },
+    "98421": {
+        "nome_PianetaFanta": "Podgoreanu S.",
+        "Ruolo": "C",
+        "Squadra": "Spezia"
+    },
+    "97975": {
         "nome_PianetaFanta": "Sher A.",
         "Ruolo": "C",
         "Squadra": "Spezia"
     },
-    "1110750": {
+    "110750": {
         "nome_PianetaFanta": "Antiste J.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1073199": {
+    "73199": {
         "nome_PianetaFanta": "Colley E.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1045012": {
+    "111579": {
+        "nome_PianetaFanta": "Delorie D.",
+        "Ruolo": "A",
+        "Squadra": "Spezia"
+    },
+    "45012": {
         "nome_PianetaFanta": "Gyasi E.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1052263": {
+    "52263": {
         "nome_PianetaFanta": "Manaj R.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1110582": {
+    "110582": {
         "nome_PianetaFanta": "Mraz S.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1064600": {
+    "64600": {
         "nome_PianetaFanta": "Nzola M.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1064676": {
+    "64676": {
         "nome_PianetaFanta": "Salcedo E.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1067360": {
+    "67360": {
         "nome_PianetaFanta": "Strelec D.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1049383": {
+    "49383": {
         "nome_PianetaFanta": "Verde D.",
         "Ruolo": "A",
         "Squadra": "Spezia"
     },
-    "1029919": {
+    "110711": {
+        "nome_PianetaFanta": "Zuppel D.",
+        "Ruolo": "A",
+        "Squadra": "Spezia"
+    },
+    "29919": {
         "nome_PianetaFanta": "Berisha E.",
         "Ruolo": "P",
         "Squadra": "Torino"
     },
-    "1070222": {
+    "70222": {
         "nome_PianetaFanta": "Gemello L.",
         "Ruolo": "P",
         "Squadra": "Torino"
     },
-    "1044633": {
+    "44633": {
         "nome_PianetaFanta": "Milinkovic V.",
         "Ruolo": "P",
         "Squadra": "Torino"
     },
-    "1046802": {
+    "95254": {
+        "nome_PianetaFanta": "Sava R.",
+        "Ruolo": "P",
+        "Squadra": "Torino"
+    },
+    "46802": {
         "nome_PianetaFanta": "Aina O.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1020136": {
+    "110424": {
+        "nome_PianetaFanta": "Angori S.",
+        "Ruolo": "D",
+        "Squadra": "Torino"
+    },
+    "20136": {
         "nome_PianetaFanta": "Ansaldi C.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1067789": {
+    "67789": {
         "nome_PianetaFanta": "Bremer G.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1061933": {
+    "61933": {
         "nome_PianetaFanta": "Buongiorno A.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1042656": {
+    "42656": {
         "nome_PianetaFanta": "Djidji K.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1026747": {
+    "26747": {
         "nome_PianetaFanta": "Izzo A.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1017403": {
+    "17403": {
         "nome_PianetaFanta": "Rodriguez R.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1070903": {
+    "70903": {
         "nome_PianetaFanta": "Singo W.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1071540": {
+    "71540": {
         "nome_PianetaFanta": "Vojvoda M.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1096331": {
+    "96331": {
         "nome_PianetaFanta": "Zima D.",
         "Ruolo": "D",
         "Squadra": "Torino"
     },
-    "1021194": {
+    "21194": {
         "nome_PianetaFanta": "Baselli D.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1065539": {
+    "65539": {
         "nome_PianetaFanta": "Ben Kone K.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1052253": {
+    "52253": {
         "nome_PianetaFanta": "Brekalo J.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1038480": {
+    "38480": {
         "nome_PianetaFanta": "Linetty K.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1048457": {
+    "48457": {
         "nome_PianetaFanta": "Lukic S.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1049183": {
+    "49183": {
         "nome_PianetaFanta": "Mandragora R.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1060968": {
+    "60968": {
         "nome_PianetaFanta": "Pobega T.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1021826": {
+    "21826": {
         "nome_PianetaFanta": "Praet D.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1017384": {
+    "17384": {
         "nome_PianetaFanta": "Rincon T.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1097635": {
+    "102559": {
+        "nome_PianetaFanta": "Seck D.",
+        "Ruolo": "C",
+        "Squadra": "Torino"
+    },
+    "97635": {
         "nome_PianetaFanta": "Stojkovic D.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1020975": {
+    "20975": {
         "nome_PianetaFanta": "Verdi S.",
         "Ruolo": "C",
         "Squadra": "Torino"
     },
-    "1021062": {
+    "21062": {
         "nome_PianetaFanta": "Belotti A.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1049609": {
+    "49609": {
         "nome_PianetaFanta": "Edera S.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1042307": {
+    "42307": {
         "nome_PianetaFanta": "Pjaca M.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1044655": {
+    "44655": {
         "nome_PianetaFanta": "Sanabria A.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1110198": {
+    "110198": {
         "nome_PianetaFanta": "Warming M.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1027351": {
+    "27351": {
         "nome_PianetaFanta": "Zaza S.",
         "Ruolo": "A",
         "Squadra": "Torino"
     },
-    "1017920": {
+    "103492": {
+        "nome_PianetaFanta": "Carnelos M.",
+        "Ruolo": "P",
+        "Squadra": "Udinese"
+    },
+    "17920": {
         "nome_PianetaFanta": "Padelli D.",
         "Ruolo": "P",
         "Squadra": "Udinese"
     },
-    "1035165": {
+    "109589": {
+        "nome_PianetaFanta": "Piana E.",
+        "Ruolo": "P",
+        "Squadra": "Udinese"
+    },
+    "111575": {
+        "nome_PianetaFanta": "Santurro A.",
+        "Ruolo": "P",
+        "Squadra": "Udinese"
+    },
+    "35165": {
         "nome_PianetaFanta": "Silvestri M.",
         "Ruolo": "P",
         "Squadra": "Udinese"
     },
-    "1020776": {
+    "51673": {
+        "nome_PianetaFanta": "Benkovic F.",
+        "Ruolo": "D",
+        "Squadra": "Udinese"
+    },
+    "112400": {
+        "nome_PianetaFanta": "Cocetta N.",
+        "Ruolo": "D",
+        "Squadra": "Udinese"
+    },
+    "112399": {
+        "nome_PianetaFanta": "Codutti L.",
+        "Ruolo": "D",
+        "Squadra": "Udinese"
+    },
+    "20776": {
         "nome_PianetaFanta": "De Maio S.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1101890": {
+    "101890": {
         "nome_PianetaFanta": "Molina N.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1038550": {
+    "38550": {
         "nome_PianetaFanta": "Nuytinck B.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1094643": {
+    "67779": {
+        "nome_PianetaFanta": "Opoku N.",
+        "Ruolo": "D",
+        "Squadra": "Udinese"
+    },
+    "16274": {
+        "nome_PianetaFanta": "Mari P.",
+        "Ruolo": "D",
+        "Squadra": "Udinese"
+    },
+    "94643": {
         "nome_PianetaFanta": "Perez N.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1067900": {
+    "67900": {
         "nome_PianetaFanta": "Rodrigo Becao N.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1058027": {
+    "58027": {
         "nome_PianetaFanta": "Samir C.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1095438": {
+    "95438": {
         "nome_PianetaFanta": "Soppy B.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1022263": {
+    "22263": {
         "nome_PianetaFanta": "Larsen J.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1102237": {
+    "102237": {
         "nome_PianetaFanta": "Udogie D.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1048720": {
+    "48720": {
         "nome_PianetaFanta": "Zeegelaar M.",
         "Ruolo": "D",
         "Squadra": "Udinese"
     },
-    "1102238": {
+    "102238": {
         "nome_PianetaFanta": "Arslan T.",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1017650": {
+    "95244": {
+        "nome_PianetaFanta": "Ballarini M.",
+        "Ruolo": "C",
+        "Squadra": "Udinese"
+    },
+    "112401": {
+        "nome_PianetaFanta": "Castagnaviz R.",
+        "Ruolo": "C",
+        "Squadra": "Udinese"
+    },
+    "112402": {
+        "nome_PianetaFanta": "Damiani M.",
+        "Ruolo": "C",
+        "Squadra": "Udinese"
+    },
+    "110751": {
+        "nome_PianetaFanta": "Fedrizzi J.",
+        "Ruolo": "C",
+        "Squadra": "Udinese"
+    },
+    "17650": {
         "nome_PianetaFanta": "Jajalo M.",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1053901": {
+    "53901": {
         "nome_PianetaFanta": "Makengo J.",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1017942": {
+    "17942": {
         "nome_PianetaFanta": "Pereyra R.",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1095081": {
+    "112552": {
+        "nome_PianetaFanta": "Pinzi R.",
+        "Ruolo": "C",
+        "Squadra": "Udinese"
+    },
+    "95081": {
         "nome_PianetaFanta": "Samardzic L.",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1058838": {
+    "58838": {
         "nome_PianetaFanta": "Walace",
         "Ruolo": "C",
         "Squadra": "Udinese"
     },
-    "1111387": {
+    "111387": {
         "nome_PianetaFanta": "Beto",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1100765": {
+    "105435": {
+        "nome_PianetaFanta": "Felipe Vizeu",
+        "Ruolo": "A",
+        "Squadra": "Udinese"
+    },
+    "100765": {
         "nome_PianetaFanta": "Forestieri F.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1016029": {
+    "16029": {
         "nome_PianetaFanta": "Deulofeu G.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1102013": {
+    "110723": {
+        "nome_PianetaFanta": "Ianesi S.",
+        "Ruolo": "A",
+        "Squadra": "Udinese"
+    },
+    "102013": {
         "nome_PianetaFanta": "Micin P.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1025367": {
+    "25367": {
         "nome_PianetaFanta": "Nestorovski I.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1017848": {
+    "17848": {
         "nome_PianetaFanta": "Okaka S.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1067780": {
+    "67780": {
         "nome_PianetaFanta": "Pussetto I.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1045261": {
+    "45261": {
         "nome_PianetaFanta": "Success I.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1039029": {
+    "39029": {
         "nome_PianetaFanta": "Teodorczyk L.",
         "Ruolo": "A",
         "Squadra": "Udinese"
     },
-    "1070843": {
+    "70843": {
         "nome_PianetaFanta": "Bertinato B.",
         "Ruolo": "P",
         "Squadra": "Venezia"
     },
-    "1043995": {
+    "43995": {
         "nome_PianetaFanta": "Lezzerini L.",
         "Ruolo": "P",
         "Squadra": "Venezia"
     },
-    "1105591": {
+    "105591": {
         "nome_PianetaFanta": "Maenpaa N.",
         "Ruolo": "P",
         "Squadra": "Venezia"
     },
-    "1064880": {
+    "96428": {
+        "nome_PianetaFanta": "Neri F.",
+        "Ruolo": "P",
+        "Squadra": "Venezia"
+    },
+    "20742": {
+        "nome_PianetaFanta": "Romero S.",
+        "Ruolo": "P",
+        "Squadra": "Venezia"
+    },
+    "64880": {
         "nome_PianetaFanta": "Ampadu E.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1044123": {
+    "44123": {
         "nome_PianetaFanta": "Caldara M.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1044722": {
+    "44722": {
         "nome_PianetaFanta": "Ceccaroni P.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1061365": {
+    "61365": {
         "nome_PianetaFanta": "Ebuehi T.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1038177": {
+    "38177": {
         "nome_PianetaFanta": "Haps R.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1063647": {
+    "111832": {
+        "nome_PianetaFanta": "Makadji M.",
+        "Ruolo": "D",
+        "Squadra": "Venezia"
+    },
+    "63647": {
         "nome_PianetaFanta": "Mazzocchi P.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1037907": {
+    "37907": {
         "nome_PianetaFanta": "Modolo M.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1017251": {
+    "17251": {
         "nome_PianetaFanta": "Molinaro C.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1098388": {
+    "98388": {
         "nome_PianetaFanta": "Schnegg D.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1099795": {
+    "99795": {
         "nome_PianetaFanta": "Svoboda M.",
         "Ruolo": "D",
         "Squadra": "Venezia"
     },
-    "1098186": {
+    "96312": {
+        "nome_PianetaFanta": "Ullmann M.",
+        "Ruolo": "D",
+        "Squadra": "Venezia"
+    },
+    "98186": {
         "nome_PianetaFanta": "Ala-Myllymaki L.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1040998": {
+    "40998": {
         "nome_PianetaFanta": "Aramu M.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1102074": {
+    "102074": {
         "nome_PianetaFanta": "Bjarkason B.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1077814": {
+    "77814": {
         "nome_PianetaFanta": "Busio G.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1047539": {
+    "47539": {
         "nome_PianetaFanta": "Crnigoj D.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1078912": {
+    "63024": {
+        "nome_PianetaFanta": "Cuisance M.",
+        "Ruolo": "C",
+        "Squadra": "Venezia"
+    },
+    "78912": {
         "nome_PianetaFanta": "De Vries J.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1018249": {
+    "18249": {
         "nome_PianetaFanta": "Dezi J.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1063348": {
+    "63348": {
         "nome_PianetaFanta": "Fiordilino L.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1110155": {
+    "110155": {
         "nome_PianetaFanta": "Heymans D.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1061446": {
+    "61446": {
         "nome_PianetaFanta": "Kiyine S.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1048952": {
+    "112669": {
+        "nome_PianetaFanta": "Mozzo F.",
+        "Ruolo": "C",
+        "Squadra": "Venezia"
+    },
+    "103444": {
+        "nome_PianetaFanta": "Pecile D.",
+        "Ruolo": "C",
+        "Squadra": "Venezia"
+    },
+    "48952": {
         "nome_PianetaFanta": "Peretz D.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1062365": {
+    "62365": {
         "nome_PianetaFanta": "Sigurdsson A.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1079050": {
+    "79050": {
         "nome_PianetaFanta": "Tessmann T.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1039576": {
+    "39576": {
         "nome_PianetaFanta": "Vacca A.",
         "Ruolo": "C",
         "Squadra": "Venezia"
     },
-    "1040868": {
+    "71503": {
+        "nome_PianetaFanta": "Bah I.",
+        "Ruolo": "A",
+        "Squadra": "Venezia"
+    },
+    "40868": {
         "nome_PianetaFanta": "Bocalon R.",
         "Ruolo": "A",
         "Squadra": "Venezia"
     },
-    "1040232": {
+    "40232": {
         "nome_PianetaFanta": "Forte F.",
         "Ruolo": "A",
         "Squadra": "Venezia"
     },
-    "1110739": {
+    "110739": {
         "nome_PianetaFanta": "Henry Thomas",
         "Ruolo": "A",
         "Squadra": "Venezia"
     },
-    "1100900": {
+    "100900": {
         "nome_PianetaFanta": "Johnsen D.",
         "Ruolo": "A",
         "Squadra": "Venezia"
     },
-    "1058505": {
+    "16646": {
+        "nome_PianetaFanta": "Nani",
+        "Ruolo": "A",
+        "Squadra": "Venezia"
+    },
+    "51823": {
+        "nome_PianetaFanta": "Nsame J.",
+        "Ruolo": "A",
+        "Squadra": "Venezia"
+    },
+    "58505": {
         "nome_PianetaFanta": "Okereke D.",
         "Ruolo": "A",
         "Squadra": "Venezia"
     },
-    "1017883": {
+    "17883": {
         "nome_PianetaFanta": "Berardi A.",
         "Ruolo": "P",
         "Squadra": "Verona"
     },
-    "1038257": {
+    "112398": {
+        "nome_PianetaFanta": "Chiesa M.",
+        "Ruolo": "P",
+        "Squadra": "Verona"
+    },
+    "112226": {
+        "nome_PianetaFanta": "Kivila K.",
+        "Ruolo": "P",
+        "Squadra": "Verona"
+    },
+    "38257": {
         "nome_PianetaFanta": "Montipo' L.",
         "Ruolo": "P",
         "Squadra": "Verona"
     },
-    "1098121": {
+    "98121": {
         "nome_PianetaFanta": "Pandur I.",
         "Ruolo": "P",
         "Squadra": "Verona"
     },
-    "1061478": {
+    "112227": {
+        "nome_PianetaFanta": "Toniolo G.",
+        "Ruolo": "P",
+        "Squadra": "Verona"
+    },
+    "61478": {
         "nome_PianetaFanta": "Casale N.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1035172": {
+    "35172": {
         "nome_PianetaFanta": "Ceccherini F.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1076687": {
+    "76687": {
         "nome_PianetaFanta": "Cetin M.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1046580": {
+    "111817": {
+        "nome_PianetaFanta": "Coppola D.",
+        "Ruolo": "D",
+        "Squadra": "Verona"
+    },
+    "46580": {
         "nome_PianetaFanta": "Dawidowicz P.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1017859": {
+    "17859": {
         "nome_PianetaFanta": "Faraoni D.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1061765": {
+    "61765": {
         "nome_PianetaFanta": "Frabotta G.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1038516": {
+    "38516": {
         "nome_PianetaFanta": "Gunter K.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1065822": {
+    "65822": {
         "nome_PianetaFanta": "Magnani G.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1099710": {
+    "57897": {
+        "nome_PianetaFanta": "Retsos P.",
+        "Ruolo": "D",
+        "Squadra": "Verona"
+    },
+    "99710": {
         "nome_PianetaFanta": "Ruegg K.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1095179": {
+    "95179": {
         "nome_PianetaFanta": "Sutalo B.",
         "Ruolo": "D",
         "Squadra": "Verona"
     },
-    "1059788": {
+    "59788": {
         "nome_PianetaFanta": "Barak A.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1103666": {
+    "103666": {
         "nome_PianetaFanta": "Bessa D.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1061159": {
+    "61159": {
         "nome_PianetaFanta": "Hongla M.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1100764": {
+    "100764": {
         "nome_PianetaFanta": "Ilic I.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1024132": {
+    "24132": {
         "nome_PianetaFanta": "Lazovic D.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1018282": {
+    "18282": {
         "nome_PianetaFanta": "Veloso M.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1039468": {
+    "95213": {
+        "nome_PianetaFanta": "Pierobon C.",
+        "Ruolo": "C",
+        "Squadra": "Verona"
+    },
+    "112711": {
+        "nome_PianetaFanta": "Praszelik M.",
+        "Ruolo": "C",
+        "Squadra": "Verona"
+    },
+    "39468": {
         "nome_PianetaFanta": "Tameze A.",
         "Ruolo": "C",
         "Squadra": "Verona"
     },
-    "1102766": {
+    "95212": {
+        "nome_PianetaFanta": "Terracciano F.",
+        "Ruolo": "C",
+        "Squadra": "Verona"
+    },
+    "102766": {
         "nome_PianetaFanta": "Cancellieri M.",
         "Ruolo": "A",
         "Squadra": "Verona"
     },
-    "1021140": {
+    "21140": {
         "nome_PianetaFanta": "Caprari G.",
         "Ruolo": "A",
         "Squadra": "Verona"
     },
-    "1024726": {
+    "111838": {
+        "nome_PianetaFanta": "Florio M.",
+        "Ruolo": "A",
+        "Squadra": "Verona"
+    },
+    "24726": {
         "nome_PianetaFanta": "Kalinic N.",
         "Ruolo": "A",
         "Squadra": "Verona"
     },
-    "1046705": {
+    "46705": {
         "nome_PianetaFanta": "Lasagna K.",
         "Ruolo": "A",
         "Squadra": "Verona"
     },
-    "1020828": {
+    "20828": {
         "nome_PianetaFanta": "Ragusa A.",
         "Ruolo": "A",
         "Squadra": "Verona"
     },
-    "1060802": {
+    "60802": {
         "nome_PianetaFanta": "Simeone G.",
         "Ruolo": "A",
         "Squadra": "Verona"

@@ -4,7 +4,7 @@ from COSTANTS import CURRENT_YEAR
 
 def change_player_name(match_day):
     input_file = open(f'resource/{CURRENT_YEAR}/Formazioni/Giornata' + match_day + '.json', 'r+')
-    change_file = open(f'resource/change_name/change_name_febbraio_{CURRENT_YEAR}.json', 'r')
+    change_file = open(f'resource/change_name/change_name_{CURRENT_YEAR}.json', 'r')
     data = json.load(input_file)
     data_change = json.load(change_file)
     input_file.close()

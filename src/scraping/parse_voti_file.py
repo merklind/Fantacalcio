@@ -2,13 +2,13 @@ import requests
 import bs4
 from json import dump
 from tqdm import tqdm
-from src.COSTANTS import CURRENT_YEAR
+from COSTANTS import CURRENT_YEAR, URL_PIANETAFANTA_PREFIX, PROJECT_FOLDER
 
 def parse_voti_file(match_day):
 
     data = dict()
-    req = requests.get('https://www.pianetafanta.it/Voti-Ufficiosi-Excel.asp?giornataScelta=' + str(match_day + 2)  + '&searchBonus=')
-    voti_file = open(f'/Users/marcomelis/PycharmProjects/Fantacalcio/resource/{CURRENT_YEAR}/Voti ufficiosi/Html/Giornata' + str(match_day + 2) + '.html', 'w')
+    req = requests.get(URL_PIANETAFANTA_PREFIX + str(match_day + 2)  + '&searchBonus=')
+    voti_file = open(f'{PROJECT_FOLDER}/rsc/{CURRENT_YEAR}/Voti ufficiosi/Html/Giornata' + str(match_day + 2) + '.html', 'w')
     voti_file.write(req.text)
     soup = bs4.BeautifulSoup(req.text, 'html.parser')
     table_row = soup.find_all('tr')
@@ -35,5 +35,5 @@ def parse_voti_file(match_day):
             data[giocatore]['RigP'] = int(row.find_all('td')[28].text.strip())
 
 
-    with open(f'/Users/marcomelis/PycharmProjects/Fantacalcio/resource/{CURRENT_YEAR}/Voti ufficiosi/Json/Giornata ' + str(match_day + 2) + '.json', 'w') as output_file:
+    with open(f'{PROJECT_FOLDER}/rsc/{CURRENT_YEAR}/Voti ufficiosi/Json/Giornata ' + str(match_day + 2) + '.json', 'w') as output_file:
         dump(data, output_file, indent=4)

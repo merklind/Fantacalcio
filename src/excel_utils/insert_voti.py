@@ -1,10 +1,10 @@
 import openpyxl
 import json
-from src.COSTANTS import FILE_PATH, CURRENT_YEAR
+from COSTANTS import FILE_PATH, CURRENT_YEAR, PROJECT_FOLDER
 
 def insert_voti(match_day):
     wb = openpyxl.load_workbook(f'{FILE_PATH}')
-    input_file = open(f'/Users/marcomelis/PycharmProjects/Fantacalcio/resource/{CURRENT_YEAR}/Voti ufficiosi/Json/Giornata ' + str(match_day + 2) + '.json')
+    input_file = open(f'{PROJECT_FOLDER}/rsc/{CURRENT_YEAR}/Voti ufficiosi/Json/Giornata ' + str(match_day + 2) + '.json')
     data = json.load(input_file)
 
     ws = wb['Giornata ' + str(match_day)]

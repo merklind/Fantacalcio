@@ -3,7 +3,7 @@ from json import dump
 from re import compile
 
 
-from src.COSTANTS import CHANGE_NAME_FILE, CURRENT_YEAR
+from src.COSTANTS import CHANGE_NAME_FILE, CURRENT_YEAR, HEADERS
 from src.utils.change_team_name import change_team_name
 from src.scraping.no_formation import no_formation
 from src.scraping.scrape_teams_names import *
@@ -11,7 +11,7 @@ from src.scraping.scrape_teams_names import *
 
 def scrape_player(session, match_links, match_day):
 
-    change_name_file = open(f'resource/change_name/{CHANGE_NAME_FILE}')
+    change_name_file = open(f'rsc/{CURRENT_YEAR}/{CHANGE_NAME_FILE}')
     change_name_dict = json.load(change_name_file)
 
     soup_list = []
@@ -24,7 +24,7 @@ def scrape_player(session, match_links, match_day):
 
     for link, counter in zip(match_links, range(1, 6)):
         # send a get request to match link
-        req = session.get(link)
+        req = session.get(link, headers=HEADERS)
 
         # retrieve text from req request
         req_text = req.text
@@ -68,12 +68,7 @@ def scrape_player(session, match_links, match_day):
         # add in data dictionary name of home regulars players
         for name_player in home_regulars_players:
             code_player = str(name_player.a['href']).split('/')[3]
-            if len(code_player) == 5:
-                data["Giornata" + str(match_day)][home_team_name]['titolari'][str(num)] = \
-                change_name_dict[str(10) + code_player]['nome_PianetaFanta']
-            elif len(code_player) == 6:
-                data["Giornata" + str(match_day)][home_team_name]['titolari'][str(num)] = \
-                change_name_dict[str(1) + code_player]['nome_PianetaFanta']
+            data["Giornata" + str(match_day)][home_team_name]['titolari'][str(num)] = change_name_dict[code_player]['nome_PianetaFanta']
             num += 1
 
         # reset of num variable
@@ -82,11 +77,7 @@ def scrape_player(session, match_links, match_day):
         # add in data dictionary name of home bleachers players
         for name_player in home_bleachers_players:
             code_player = str(name_player.a['href']).split('/')[3]
-            if len(code_player) == 5:
-                data["Giornata" + str(match_day)][home_team_name]['riserve'][str(num)] = change_name_dict[str(10) + code_player]['nome_PianetaFanta']
-            elif len(code_player) == 6:
-                data["Giornata" + str(match_day)][home_team_name]['riserve'][str(num)] = \
-                change_name_dict[str(1) + code_player]['nome_PianetaFanta']
+            data["Giornata" + str(match_day)][home_team_name]['riserve'][str(num)] = change_name_dict[code_player]['nome_PianetaFanta']
             num += 1
 
         # reset of num variable
@@ -95,12 +86,7 @@ def scrape_player(session, match_links, match_day):
         # add in data dictionary name of away regulars players
         for name_player in away_regulars_players:
             code_player = str(name_player.a['href']).split('/')[3]
-            if len(code_player) == 5:
-                data["Giornata" + str(match_day)][away_team_name]['titolari'][str(num)] = \
-                change_name_dict[str(10) + code_player]['nome_PianetaFanta']
-            elif len(code_player) == 6:
-                data["Giornata" + str(match_day)][away_team_name]['titolari'][str(num)] = \
-                change_name_dict[str(1) + code_player]['nome_PianetaFanta']
+            data["Giornata" + str(match_day)][away_team_name]['titolari'][str(num)] = change_name_dict[code_player]['nome_PianetaFanta']
             num += 1
 
         # reset of num variable
@@ -109,10 +95,7 @@ def scrape_player(session, match_links, match_day):
         # add in data dictionary name of away bleachers players
         for name_player in away_bleachers_players:
             code_player =  str(name_player.a['href']).split('/')[3]
-            if len(code_player) == 5:
-                data["Giornata" + str(match_day)][away_team_name]['riserve'][str(num)] = change_name_dict[str(10) + code_player]['nome_PianetaFanta']
-            elif len(code_player) == 6:
-                data["Giornata" + str(match_day)][away_team_name]['riserve'][str(num)] = change_name_dict[str(1) + code_player]['nome_PianetaFanta']
+            data["Giornata" + str(match_day)][away_team_name]['riserve'][str(num)] = change_name_dict[code_player]['nome_PianetaFanta']
             num += 1
 
     # change the names of the teams from fantacalcio names to our surname
@@ -124,5 +107,5 @@ def scrape_player(session, match_links, match_day):
         data['Giornata' + match_day][member_team[num + 1]]['link'] = match_links[num//2]
 
     # save the dict in a json file
-    with open(f'resource/{CURRENT_YEAR}/Formazioni/Giornata' + str(match_day) + '.json', 'w') as output_file:
+    with open(f'rsc/{CURRENT_YEAR}/Formazioni/Giornata' + str(match_day) + '.json', 'w', encoding='utf-8') as output_file:
         dump(data, output_file, indent=4, ensure_ascii=False)

@@ -4,11 +4,11 @@ import threading
 
 import requests
 
-from src.excel_utils.fill_info_excel import *
-from src.input_utils.input_day import *
-from src.scraping.login import *
-from src.scraping.scrape_link import *
-from src.scraping.scrape_player import *
+from excel_utils.fill_info_excel import fill_info_excel
+from input_utils.input_day import input_day
+from scraping.login import login
+from scraping.scrape_link import scrape_link
+from scraping.scrape_player import scrape_player
 from utils.utility import open_wb
 
 #Open workbook in a separate thread

@@ -1,13 +1,13 @@
 from json import load
 
-from ..COSTANTS import CURRENT_YEAR, FILE_PATH
-from src.excel_utils.add_link import *
+from COSTANTS import CURRENT_YEAR, FILE_PATH
+from .add_link import *
 
 
 def fill_info_excel(wb, match_day):
 
     # open json detail file
-    input_file = open(f'resource/{CURRENT_YEAR}/Formazioni/Giornata' + match_day + '.json', 'r')
+    input_file = open(f'rsc/{CURRENT_YEAR}/Formazioni/Giornata' + match_day + '.json', 'r')
     json_input_file = load(input_file)
     team_name = list(json_input_file['Giornata' + match_day])
 

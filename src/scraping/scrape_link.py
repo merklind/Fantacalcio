@@ -1,20 +1,15 @@
 import bs4
 
-from src.COSTANTS import ID_LEGA
+from COSTANTS import HEADERS, URL_CALENDAR
 
 
 def scrape_link(session, match_day):
     links = []
 
-    header = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) '
-        'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'
-    }
+    url_calendar = f'{URL_CALENDAR}/{match_day}/'
 
-    url_calendar = f'https://www.fanta.soccer/it/lega/privata/{ID_LEGA}/calendario/{match_day}/'
-
-    # send a post request to url_calendar with custom headers and custom payload
-    req = session.post(url_calendar, headers=header)
+    # send a post request to url_calendar with custom headers
+    req = session.post(url_calendar, headers=HEADERS)
 
     # retrieve text from request object
     req_text = req.text
@@ -23,9 +18,9 @@ def scrape_link(session, match_day):
 
 
     # for each match in a specific day scrape the link
-    for times in range(5):
+    for idx_match in range(5):
         # extract the link from <a> tag with specific id
-        link_match = soup.find('a', {'id': f'MainContent_wuc_Calendario1_rptGiornata_hlPartita_{times}'})['href']
+        link_match = soup.find('a', {'id': f'MainContent_wuc_Calendario1_rptGiornata_hlPartita_{idx_match}'})['href']
         # append to links list the match link
         links.append(f'https://www.fanta.soccer{link_match}')
 

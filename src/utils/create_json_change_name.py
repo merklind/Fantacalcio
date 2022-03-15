@@ -1,11 +1,15 @@
 import openpyxl
 import json
-from COSTANTS import CURRENT_YEAR
+
+from sys import path
+path.insert(0, r"C:\Users\mmelis\Downloads\Fantacalcio\Fantacalcio")
+
+from src.COSTANTS import CURRENT_YEAR
 
 
 def create_json_change_name():
     data = dict()
-    wb = openpyxl.load_workbook(f'/Users/marcomelis/Dropbox/Mia/File excel/Fantacalcio/{CURRENT_YEAR}/Associazione giocatori FantaService-PianetaFanta.xlsx')
+    wb = openpyxl.load_workbook(r"C:\Users\mmelis\Downloads\2021-2022\2021-2022\Associazione giocatori FantaService-PianetaFanta.xlsx")
     ws = wb['Foglio1']
     row_index = 2
 
@@ -18,13 +22,7 @@ def create_json_change_name():
         data[ws.cell(row_index, 1).value]['Squadra'] = ws.cell(row_index, 4).value
         row_index += 1
 
-    # for i in range(2, 583):
-    #     data[ws.cell(i, 1).value] = dict()
-    #     data[ws.cell(i, 1).value]['nome_PianetaFanta'] = ws.cell(i, 3).value
-    #     data[ws.cell(i, 1).value]['Ruolo'] = ws.cell(i, 5).value
-    #     data[ws.cell(i, 1).value]['Squadra'] = ws.cell(i, 4).value
-
-    with open(f'resource/change_name/change_name_settembre_{CURRENT_YEAR}.json', 'w') as output_file:
+    with open(f'rsc/change_name/change_name_febbraio_{CURRENT_YEAR}.json', 'w', encoding='utf-8') as output_file:
         json.dump(data, output_file, indent=4, ensure_ascii=False)
 
 
